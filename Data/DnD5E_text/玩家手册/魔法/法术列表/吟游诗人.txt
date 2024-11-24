@@ -1,0 +1,253 @@
+吟游诗人
+吟游诗人法术Bard Spells
+0环 戏法
+·
+剑刃防护Blade Ward
+·
+舞光术Dancing Lights
+·
+交友术Friends
+·
+光亮术Light
+·
+法师之手Mage Hand
+·
+修复术Mending
+·
+传讯术Message
+·
+次级幻影Minor Illusion
+·
+魔法伎俩Prestidigitation
+·
+克敌机先True Strike
+·
+恶言相加Vicious Mockery
+1环
+·
+化兽为友Animal Friendship
+·
+灾祸术Bane
+·
+魅惑人类Charm Person
+·
+通晓语言Comprehend Languages
+·
+疗伤术Cure Wounds
+·
+侦测魔法Detect Magic
+·
+易容术Disguise Self
+·
+不谐低语Dissonant Whispers
+·
+妖火Faerie Fire
+·
+羽落术Feather Fall
+·
+治愈真言Healing Word
+·
+英雄气概Heroism
+·
+鉴定术Identify
+·
+迷幻手稿Illusory Script
+·
+大步奔行Longstrider
+·
+无声幻影Silent Image
+·
+睡眠术Sleep
+·
+动物交谈术Speak With Animal
+·
+塔莎狂笑术Tasha’s Hideous Laughter
+·
+雷鸣波Thunderwave
+·
+隐形仆役Unseen Servant
+2环
+·
+动物信使Animal Messenger
+·
+目盲/耳聋术
+Blindness/Deafness
+·
+安定心神Calm Emotions
+·
+匕首之云Cloud of Daggers
+·
+疯狂冠冕Crown of Madness
+·
+侦测思想Detect Thoughts
+·
+强化属性Enhance Ability
+·
+注目术Enthrall
+·
+灼热金属Heat Metal
+·
+人类定身术Hold Person
+·
+隐形术Invisibility
+·
+敲击术Knock
+·
+次级复原术Lesser Restoration
+·
+动植物定位术Locate Animals or Plants
+·
+物件定位术Locate Object
+·
+魔嘴术Magic Mouth
+·
+魅影之力Phantasmal Force
+·
+识破隐形See Invisibility
+·
+粉碎音波Shatter
+·
+沉默术Silence
+·
+暗示术Suggestion
+·
+诚实之域Zone of Truth
+3环
+·
+降咒Bestow Curse
+·
+鹰眼术Clairvoyance
+·
+解除魔法Dispel Magic
+·
+恐惧术Fear
+·
+假死术Feign Death
+·
+守卫刻文Glyph of Warding
+·
+催眠图纹Hypnotic Pattern
+·
+李欧蒙小屋Leomund’s Tiny Hut
+·
+高等幻影Major Image
+·
+回避侦测Nondetection
+·
+植物滋长Plant Growth
+·
+短讯术Sending
+·
+死者交谈Speak With Dead
+·
+植物交谈Speak With Plants
+·
+臭云术Stinking Cloud
+·
+巧言术Tongues
+4环
+·
+强迫术Compulsion
+·
+困惑术Confusion
+·
+任意门Dimension Door
+·
+行动自如Freedom of Movement
+·
+高等隐形术Greater Invisibility
+·
+幻景Hallucinatory Terrain
+·
+生物定位术Locate Creature
+·
+变形术Polymorph
+5环
+·
+活化物件Animate Objects
+·
+启蒙术Awaken
+·
+支配人类Dominate Person
+·
+托梦术Dream
+·
+指使术Geas
+·
+高等复原术Greater Restoration
+·
+怪物定身术Hold Monster
+·
+通晓传奇Legend Lore
+·
+群体疗伤术Mass Cure Wounds
+·
+假象术Mislead
+·
+篡改记忆Modify Memory
+·
+异界誓缚Planar Binding
+·
+死者复活Raise Dead
+·
+探知Scrying
+·
+伪装术Seeming
+·
+传送法阵Teleportation Circle
+6环
+·
+摄心目光Eyebite
+·
+寻路术Find the Path
+·
+铜墙铁壁Guards and Wards
+·
+群体暗示术Mass Suggestion
+·
+奥图迷舞Otto’s Irresistible Dance
+·
+预置幻影Programmed Illusion
+·
+真知术True Seeing
+7环
+·
+以太化Etherealness
+·
+魔力监牢Forcecage
+·
+海市蜃楼Mirage Arcane
+·
+摩登肯豪宅术Mordenkainen's Magnificent Mansion
+·
+摩登肯之剑Mordenkainen’s Sword
+·
+投影术Project Image
+·
+再生术Regenerate
+·
+复生术Resurrection
+·
+魔法徽记Symbol
+·
+传送术Teleport
+8环
+·
+支配怪物Dominate Monster
+·
+弱智术Feeblemind
+·
+花言巧语Glibness
+·
+心灵屏障Mind Blank
+·
+律令震慑Power Word Stun
+9环
+·
+预警术Foresight
+·
+律令医疗Power Word Heal
+·
+律令死亡Power Word Kill
+·
+完全变形术True Polymorph

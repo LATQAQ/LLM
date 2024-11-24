@@ -1,0 +1,52 @@
+圣武士
+圣武士法术Paladin Spells
+1环
+祝福术Bless
+命令术Command
+强令对决Compelled Duel
+疗伤术Cure Wounds
+侦测善恶Detect Evil and Good
+侦测魔法Detect Magic
+侦测毒性和疾病Detect Poison and Disease
+神恩Divine Favor
+英雄气概Heroism
+防护善恶Protection from Evil and Good
+净化食粮Purify Food and Drink
+炽焰斩Searing Smite
+虔诚护盾Shield of Faith
+雷鸣斩Thunderous Smite
+激愤斩Wrathful Smite
+2环
+援助术Aid
+印记斩Branding Smite
+召唤坐骑Find Steed
+次级复原术Lesser Restoration
+物件定位术Locate Object
+魔化武器Magic Weapon
+防护毒素Protection from Poison
+诚实之域Zone of Truth
+3环
+活力灵光Aura of Vitality
+致盲斩Blinding Smite
+造粮术Create Food and Water
+十字军披风Crusader’s Mantle
+昼明术Daylight
+解除魔法Dispel Magic
+元素武器Elemental Weapon
+防护法阵Magic Circle
+移除诅咒Remove Curse
+回生术Revivify
+4环
+生命灵光Aura of Life
+净化灵光Aura of Purity
+放逐术Banishment
+防死结界Death Ward
+生物定位术Locate Creature
+惊惧斩Staggering Smite
+5环
+放逐斩Banishing Smite
+原力法阵Circle of Power
+湮灭波Destructive Wave
+反制善恶Dispel Evil and Good
+指使术Geas
+死者复活Raise Dead

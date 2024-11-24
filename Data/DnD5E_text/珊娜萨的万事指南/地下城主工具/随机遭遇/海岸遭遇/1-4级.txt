@@ -1,0 +1,54 @@
+1-4级
+d100
+遭遇
+01         1只伪龙pseudodragon
+02-05       2d8只蟹crab
+06-10       2d6的渔民（平民commoner）
+11         1d3条毒蛇poisonous
+snake
+12-13       1d6的警卫guard，保护着1位搁浅后的贵族noble
+14-15       2d4的斥候scout
+16-18       2d10的人鱼merfolk
+19-20       1d6+2的沙华鱼人sahuagin
+21-25       1d4只食尸鬼ghoul在一艘商船的残骸上吞吃着尸体。搜寻商船能找到2d6瓶馊了的牛奶，一段50尺长的麻绳，以及一桶腌鲱鱼。
+26-27       1d4只带翼狗头人winged
+kobold和1d6+1只狗头人kobold
+28-29       2d6的部族武者tribal
+warrior
+30-31       3d4只狗头人kobold
+32-33       2d4+5只血鹰blood hawk
+34-35       1d8+1只翼龙pteranodon
+36-40       几十只小海龟正努力向海的方向爬行
+41-42       1d6+2只巨蜥giant lizard
+43-44       1d6+4只巨蟹giant crab
+45-46       2d4只蚊蝠stirge
+47-48       2d6+3的强盗bandit
+49-53       2d4的沙华鱼人sahuagin
+54-55       1d6+2的斥候scout
+56-60       1个海鬼婆sea hag
+61-65       海浪中的一部分在一瞬间看起来像是一张巨大的类人生物的脸
+66-70       1位德鲁伊druid
+71-75       1d4的鸟妖harpy
+76-80       海滩上独坐的隐士（侍僧acolyte），正在思考着多元宇宙的意义
+81         1d4的狂战士berserker
+82         1d6只巨鹰giant
+eagle
+83         2d4只巨蟾蜍giant
+toad
+84         1d4只食人魔ogre或1d4的迈罗人鱼merrow
+85         3d6的沙华鱼人sahuagin
+86         1d4的老兵veteran
+87         1d2只蛇颈龙plesiosaurus
+88         1个强盗首领bandit
+captain和2d6的强盗bandit
+89         1d3只蝎尾狮manticore
+90         1个女妖banshee
+91-92       1d4+3只狮鹫griffon
+93-94       1个沙华鱼人女祭司sahuagin
+priestess，1d3的迈罗人鱼merrow和2d6的沙华鱼人sahuagin
+95-96       1个沙华鱼人男爵sahuagin
+baron
+97-98       1个水元素water elemental
+99         1个独眼巨人cyclops
+00         1只幼年青铜龙young
+bronze dragon

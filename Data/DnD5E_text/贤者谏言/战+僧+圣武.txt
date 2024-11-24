@@ -1,0 +1,143 @@
+Fighter战士
+[NEW] Does the fighter’s Action Surge feature let you take an extra bonus action, in
+addition to an extra action? Action Surge gives you an extra action, not an extra
+bonus action. (Recent printings of the Player’s
+Handbook no longer include the wording that provoked this question.)
+Q：战士的“动作如潮”能力除了让你获得一个动作之外，会附带一个附赠动作吗？
+A：不会。“动作如潮”只提供一个动作，不提供附赠动作。（新版PHB已经删除了会引起歧义的说法）
+Can a fighter have two fighting styles
+active at once? Dueling and Defense, for example. You can benefit from more
+than one Fighting Style option at a time, as long as they don’t have conflicting requirements, as Dueling and Great Weapon
+Fighting do.
+Q：战士可以同时获得两种战斗风格的好处吗？例如：决斗和防御。
+A：只要前提条件都满足，你就可以同时从多个战斗风格获益。
+Does the Archery fighting style work with a
+melee weapon that you throw? No, the Archery feature benefits ranged weapons. A
+melee weapon, such as a dagger or handaxe, is still a melee weapon when you
+make a ranged attack with it.
+Q：箭术战斗风格对投掷近战武器生效吗？
+A：不。箭术风格只对远程武器生效。近战武器如匕首和手斧，即使在投掷时依然是近战武器。
+Is the Dueling fighting style intended to
+support a shield? Yes. A character with the Dueling option usually pairs a
+one-handed weapon with a shield, a spellcasting focus, or a free hand.
+Q：决斗战斗风格支持使用盾牌吗？
+A：支持。选择决斗风格的人通常一手持单手武器，另一手持盾，或是持法器，或是什么都不拿。
+If you use Great Weapon Fighting with a
+feature like Divine Smite or a spell like hex, do you get to reroll any 1 or 2
+you roll for the extra damage? The Great Weapon Fighting feature―which is shared by fighters and paladins―is
+meant to benefit only the damage roll of the weapon used with the feature. For
+example, if you use a greatsword with the feature, you can reroll any 1 or 2
+you roll on the weapon’s 2d6. If you’re a paladin and use Divine Smite with the greatsword, Great Weapon
+Fighting doesn’t let you reroll a 1 or 2 that you roll
+for the damage of Divine Smite.
+Q：至圣斩或是脆弱诅咒的额外伤害可以应用重武器战斗风格的重投吗？
+A：重武器战斗风格只对武器的伤害骰生效。例如，一个圣武士使用巨剑攻击并使用至圣斩时，你只能重投巨剑2d6伤害骰中出现的1或2。
+If my Battle Master fighter provokes an
+opportunity attack and it misses, can I use Riposte? Yes, you can use the
+Riposte maneuver in response to an opportunity attack that misses you, assuming
+your reaction is available.
+Q：如果一个战斗大师范型的战士引发了敌人的借机攻击但没有被命中，他可以使用反击战技吗？
+A：可以。只要你还有反应可用，你就可以在借机攻击没有命中你时使用反击战技。
+Does the “when” in the Eldritch Knight’s War Magic feature
+mean the bonus attack comes after you cast the cantrip, or can it come before?
+The bonus action comes after the cantrip, since using your action to cast a
+cantrip is what gives you the ability to make the weapon attack as a bonus
+action. That said, a DM would break nothing in the system by allowing an
+Eldritch Knight to reverse the order of the cantrip and the weapon attack.
+Q：奥法骑士的“战斗施法”能力是否要求必须先施展戏法，再用附赠动作进行攻击？
+A：因为用你的动作施展戏法是允许你用附赠动作进行攻击的前提，所以施展戏法是在附赠动作攻击之前的。不过，就算DM允许你反过来也不会对游戏造成什么影响。
+If my Eldritch Knight casts true strike and
+has the War Magic feature, is the attack granted by War Magic made with
+advantage because of true strike? No. The attack from War Magic is made
+normally, and you get the benefit of true strike on your next turn if the spell
+hasn’t ended.
+Q：一个有“战斗施法”能力的奥法骑士施展“克敌机先”后，“战斗施法”提供的附赠动作攻击是否会受“克敌机先”影响？
+A：不会。“战斗施法”提供的攻击没有变化，你下一回合才会获得“克敌机先”的好处（如果那时法术没有结束的话）。
+Monk武僧
+If a monk uses a staff or another versatile
+weapon two-handed, does it still count as a monk weapon? Yes. A monk weapon
+must lack the two-handed property, but nothing prevents a monk from wielding
+such a weapon with two hands. Fundamentally, a monk weapon counts as such no
+matter how a monk uses it.
+Q：如果武僧用双手挥舞一根木棍或是其他两用武器，它还算是武僧武器吗？
+A：算。武僧武器不能有双手属性，但武僧完全可以双手使用一把两用武器。无论武僧怎么用，武僧武器就是武僧武器。
+The dart is not classified as a monk
+weapon, yet a monk gets 10 darts as starting equipment. Why is that? Starting
+equipment often lends versatility to a character. In this case, a monk’s darts provide a ranged attack option, not a Martial Arts option.
+Q：飞镖并不是武僧武器，那为什么武僧的起始装备里有10枚飞镖？
+A：起始装备为角色提供了泛用性。虽然飞镖不是武僧武器，但它给武僧提供了一种远程攻击手段。
+Does the Martial Arts feature turn monk
+weapons and unarmed strikes into finesse weapons? No. The feature grants a
+benefit that is similar to the finesse property, but the feature doesn’t confer that property.
+Q：“武艺”能力是否让武僧武器和徒手打击视为灵巧武器？
+A：不。“武艺”提供类似灵巧武器的效果，但并不能等同于灵巧属性。
+When a monk using Deflect Missiles catches
+and throws a projectile, what is the damage of the attack? A missile counts as
+a monk weapon if it is thrown using Deflect Missiles; it deals its damage or
+Martial Arts damage (the monk’s choice).
+Q：武僧使用“拨挡飞弹”抓住并扔出的射击物伤害是多少？
+A：武僧使用“拨挡飞弹”抓住并扔出的射击物视同武僧武器。他可以选择使用射击物本身的伤害或是他“武艺”的伤害。
+[NEW] Can a monk use Stunning Strike with
+an unarmed strike, even though unarmed strikes aren’t
+weapons? Yes. Stunning Strike works with melee weapon attacks, and an unarmed
+strike is a special type of melee weapon attack.
+The game often makes exceptions to general
+rules, and this is an important exception: that unarmed strikes count as melee
+weapon attacks despite not being weapons.
+Q：即使徒手打击不算武器，武僧也可以用徒手打击发动“震慑拳”吗？
+A：是的。近战武器攻击可以发动震慑拳，而徒手打击是一种特殊的近战武器攻击。这是通用规则的例外：即使徒手打击不算武器，用它发动的攻击依然算近战武器攻击。
+When a monk uses Empty Body, does the
+invisibility remain in effect after the monk attacks? Yes. The invisibility of
+the monk’s Empty Body isn’t
+ended by the monk attacking.
+Q：武僧使用“空灵体”获得的隐形效果会因为发动攻击而消失吗？
+A：不会。
+Does a monk’s
+Purity of Body feature grant immunity to poison damage, the poisoned condition,
+or both? That feature grants immunity to both. As a result, a monk with Purity
+of Body can, for example, inhale a green dragon’s
+poison breath unharmed. Similarly, the monk is unaffected by ray of sickness,
+which both deals poison damage and imposes the poisoned condition.
+Q：武僧的“百病不侵”提供中毒状态免疫，还是毒素伤害免疫，还是两者都有？
+A：两者都有。获得“百病不侵”的武僧可以承受绿龙的毒素喷吐而不受伤。“致病射线”的毒素伤害和中毒状态也都对他无效。
+Can the monk’s Open
+Hand Technique push a Large or larger creature or knock it prone? The Open Hand
+Technique intentionally ignores creature size. A monk’s
+ki fuels many extraordinary effects! If a feature is limited by creature size,
+the feature tells you so.
+Q：武僧的“散打技巧”可以把大型或更大的生物推开或击倒吗？
+A：可以。“散打技巧”特意没有写生物体型。武僧的气能产生很多神奇的效果！限制体型的能力会特别注明的。
+Does a monk need to spend any ki points to
+cast the minor illusion cantrip granted by the Shadow Arts feature? No. The ki
+point cost in the feature applies only to the other spells in it.
+Q：暗影宗武僧施展暗影技艺中的“次级幻影”戏法是否需要消耗气？
+A：不需要。
+For a Way of Shadow monk, can their silence
+be dispelled? A spell is a spell, no matter its source. When you cast a spell
+through a feature, the spell is subject to the normal spellcasting rules,
+unless the feature says otherwise.
+Q：暗影宗武僧施展的沉默术可以被解除吗？
+A：无论用何种方式施展，法术都是法术。当你使用某种职业能力施展法术时，除非有特殊书名，否则它依然要遵循通常的施法规则。
+Can a monk of the Way of the Four Elements
+replace Elemental Attunement with another elemental discipline? Yes. Even
+though you know Elemental Attunement automatically, without having to choose
+it, you can exchange it for a different discipline at 6th, 11th, or 17th level.
+Q：四象宗武僧可以把“元素同调”换成其他其他法门吗？
+A：可以。即使“元素同调”是自动获得的，你依然可以在6级、11级、17级把它替换成其他法门。
+Paladin圣武士
+Would a Paladin’s
+Divine Sense register a tiefling due to their infernal heritage? A tiefling is
+a humanoid, not a fiend, and therefore escapes the notice of Divine Sense. The
+feature detects creatures that have the celestial, fiend, or undead creature
+type.
+Q：圣武士的“神圣感知”能感知到有邪魔血统的提夫林吗？
+A：提夫林是类人生物，而非邪魔，因此无法被“神圣感知”发现。“神圣感知”只能发现生物类别为天界生物、邪魔、不死生物的生物。
+Can my paladin use a smite spell along with
+Divine Smite? As in, I cast wrathful smite, hit, then use Divine Smite on the
+same attack? Yes, you can use Divine Smite on the same weapon attack that
+benefits from a smite spell, such as wrathful smite―as
+long as the attack you make after casting the smite spell is a melee weapon
+attack. Divine Smite doesn’t work with any other kind
+of attack.
+Q：圣武士可以在使用某种“打击”法术的同时使用“至圣斩”吗？例如，我可以施展“激愤斩”命中敌人，并且在同义词攻击中使用“至圣斩”吗？
+A：可以。你可以在施展“打击”法术后的武器攻击中使用“至圣斩”，不过要注意至圣斩只能应用在近战武器攻击上。

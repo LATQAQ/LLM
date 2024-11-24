@@ -1,0 +1,112 @@
+1-4级
+d100
+遭遇
+01         1个夺心魔奥术师mind
+flayer arcanist
+02         1d3+1条巨毒蛇giant
+poisonous snake
+03         1d3只巨蜥giant
+lizard
+04         2d4只巨火甲虫giant
+fire beetle
+05         1d8+1只呋噜flumph
+06         1个尖叫蕈shrieker
+07         1d12只巨鼠giant rat
+08         2d4只狗头人kobold
+09         1d8+1只蚊蝠stirge
+10         2d4的人类（部族武者tribal
+warrior），寻找着能逃离地底压迫者的通往地表的路
+11-12       1d10只战蜥人troglodyte
+13-14       1d2只灰泥怪gray ooze
+15-16       3d6只蚊蝠stirge
+17-18       1d3只熔岩魔蝠magma mephit
+19-20       1d10只地精goblin
+21-22       墙上的兽人语涂鸦，辱骂着一个叫克鲁斯克Krusk的人的母亲
+23-24       1个虫群swarm of insects
+25         1个地底侏儒deep gnome
+26-28       1d8+1的卓尔drow
+29-30       1d4的紫蕈violet fungi
+31-32       1d12的寇涛鱼人kuo-toa
+33         1只锈蚀怪rust
+monster
+34-35       一条仍有碎石的路，看起来是在垮塌后最近清理过
+36-37       1d8+1只巨蝙蝠giant bat
+38-39       3d6的狗头人kobold
+40-41       2d4的石盲蛮族grimlock
+42-43       1d4+3的蝙蝠群swarm of
+bats
+44         1个寻找金矿的矮人探矿员（斥候scout）
+45         1只食腐虫carrion
+crawler或1只胶质方块gelatinous
+cube
+46         1d8只暗幕魔兽darkmantle或2d4只穿刺者piercer
+47         1只地狱犬hell hound
+48         1d3的幽灵specter
+49         1d4只熊地精bugbear
+50         1d10+5只带翼狗头人winged
+kobold
+51         1d4条火蛇fire snake
+52         2d8+1只战蜥人troglodyte
+53         1d6只巨蜘蛛giant
+spider
+54         3d6的寇涛鱼人kuo-tua
+55         1只地精头目goblin
+boss和2d4只地精goblin
+56         4d4的石盲蛮族grimlock
+57         1只赭冻怪ochre jelly
+58         2d10只巨蜈蚣giant
+centipede
+59         1只诺斯异怪nothic或1只巨蟾蜍giant toad
+60         1d4的蕈人成体myconid
+adult和5d4的蕈人幼体myconid
+sprout
+61         1只骷髅牛头人minotaur
+skeleton或1个牛头人minotaur
+62         3d6的卓尔drow
+63         1只拟身怪mimic或1只变形怪doppelganger
+64         1d6+3只大地精hobgoblin
+65         1只噬脑怪intellect
+devourer或1只观察者眼魔spectator
+66         1d8+1只兽人orc
+67-68       附近的岩壁后传来的微弱的敲击声
+69         1只惧噬体gibbering
+mouther或1只水诡water weird
+70         1个毒气孢子gas spore
+71         1条巨蟒giant
+constrictor snake
+72         1只幽影shadow
+73         1d3只触须怪grell
+74         1个尸妖wight
+75         1d8+1的泽地熊人孢子奴仆quaggoth
+spore servent
+76         1d2只石像鬼gargoyle
+77         1d4只食人魔ogre或1d3的双头巨人ettin
+78         1d4的矮人探索者（老兵veteran）
+79-80       一处溅上血迹的废弃矿工营地，1d3套地城套组散落在各处
+81         1只甲伏怪chuul或1只火蜥蜴salamander
+82         1d4只相位蜘蛛phase
+spider或1d3只恐爪怪hook
+horror
+83         5d4的灰矮人duergar
+84         1个幽魂ghost或1个燃焰之颅flameskull或1个缚灵wraith
+85         1位德鲁伊druid和1只穴熊（白熊polar bear）
+86         1只大地精长官hobgoblin
+captain，1d4只半食人魔half-ogre和2d10只大地精hobgoblin
+87         1个土元素earth
+elemental或1只黑布丁black
+pudding
+88         1个寇涛监督kuo-tua
+monitor和1d8+1的寇涛鞭策者kuo-tua
+whip
+89         1个泽地熊人·索诺祭司quaggoth thonot和1d3的泽地熊人guaggoth
+90         1只眼魔僵尸beholder
+zombie或1只骸骨纳迦bone naga
+91         1只兽人·格乌什之眼orc Eye of Gruumsh，1d4只魔兽人orog和2d8只兽人orc
+92         1d4的妖鬼ghast和1d10只食尸鬼ghoul
+93-95       一个散发着臭气的小水坑，泥浆从头顶的岩壁滴落在里面
+96         1只食腐兽otyugh或1只树绳妖roper
+97         1个吸血鬼衍体vampire
+spawn
+98         1只奇美拉chimera
+99         1个夺心魔mind flayer
+00         1个精魂纳迦spirit naga

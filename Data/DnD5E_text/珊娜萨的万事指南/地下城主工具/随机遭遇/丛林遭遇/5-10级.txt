@@ -1,0 +1,87 @@
+5-10级
+d100
+遭遇
+01         1只枯藤怪vine blight
+02         2d6只大地精hobgoblin或2d6只兽人orc
+03         2d4只猿ape或2d4的半羊人satyr
+04         1d3的鬼火will-o’-wisp
+05         1d4的毒蛇群swarm of
+poisonous snakes
+06         1只兽人·格乌什之眼orc Eye of Gruumsh，1d3只魔兽人orog和1d8+2只兽人orc
+07         1d3条蟒蛇constrictor
+snake或1d4只老虎tiger
+08         1只地精头目goblin
+boss和3d6只地精goblin
+09         1只妖精龙faerie
+dragon（任何年龄）
+10         1只棕熊brown bear或1d6+2只黑熊black bear
+11-13       1d4只巨野猪giant boar
+14-15       1d8+1只巨蜘蛛giant
+spider
+16-17       1只蜥蜴人萨满lizardfolk
+shaman和2d4只蜥蜴人lizardfolk
+18         1d10只巨蟾蜍giant
+toad
+19         1d4只掘地虫ankheg
+20         1d3棵启蒙树木awakened
+tree（白天）或1个女妖banshee（夜晚）
+21-25       一间几乎被树林完全掩盖住的小屋。屋内除了一个铸铁制造的大烤炉之外空无一物。
+26         1条羽蛇couatl
+27-28       1d4只食人魔ogre或1d6+2只半食人魔half-ogre
+29-30       1只豺狼人首领gnoll pack
+lord和1d4+1只巨鬣狗giant
+hyena
+31-32       1d6的鼠人wererat
+33         1d4只穴居攫怪grick
+34         1d8+1的纯血蛇人yuan-ti
+pureblood
+35         1d6匹飞马pegasus
+36-40       一道古老的石质拱门，有很明显的精灵工艺痕迹。任何穿过拱门的角色在接下来的1小时内所做的感知（察觉）检定具有优势。
+41-42       1d6+2的树精dryad
+43         1d4只巨麋鹿giant elk
+44         1d8+1的鸟妖harpy
+45-46       1个强盗首领bandit captain，1位德鲁伊druid和1d6+5的强盗bandit
+47-48       2d4只恐狼dire wolf
+49-50       2d4只熊地精bugbear
+51-52       2d4的人马centaur
+53-54       3d10只闪现犬blink dog
+55-56       1d4只枭熊owlbear
+57-58       1d8+1的狂战士berserker
+59-60       1d3的绿鬼婆green hag
+61-65       一池清澈的水，池边躺着1d6只熟睡的动物
+66-67       1d4的狼人werewolf
+68-69       1个熊人werebear
+70-71       1d8+1只伊特怪ettercap
+72-73       2d10只麋鹿elk
+74-75       1d4的老兵veteran
+76-80       一棵老树，树干上刻着一张满是皱纹的脸
+81         1d4的野猪人wereboar
+82         2d4只移位兽displacer
+beast
+83         1d4只蔓生怪shambling
+mound
+84         1只大地精长官hobgoblin
+captain，3d10只大地精hobgoblin和4d12只地精goblin
+85         1个憎恶蛇人yuan-ti
+abomination
+86         1d8+1只相位蜘蛛phase
+spider
+87         1d4只巨魔troll
+88         2d4的恶咒蛇人yuan-ti
+malison
+89         1只恶鬼oni
+90         1d4只独角兽unicorn
+91         1d6+2的虎人weretiger
+92         1只幼年绿龙young
+green dragon
+93         1d4只石化牛gorgon
+94         1d6+2只豺狼人·耶诺古毒牙gnoll fang of Yeenoghu
+95         1个树人treant
+96         1d4的还魂尸revenant
+97         1只阿尔法穴居攫怪grick
+alpha和1d6+1只穴居攫怪grick
+98         1d4只巨猿giant ape
+99         1个巡守纳迦guardian
+naga
+00         1只成年金龙adult gold
+dragon

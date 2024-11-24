@@ -1,0 +1,142 @@
+术士
+术士法术Sorcerer Spells
+0环 戏法
+酸液飞溅Acid Splash
+剑刃防护Blade Ward
+冻寒之触Chill Touch
+舞光术Dancing Lights
+火焰箭Fire Bolt
+交友术Friends
+光亮术Light
+法师之手Mage Hand
+修复术Mending
+传讯术Message
+次级幻影Minor Illusion
+毒气喷溅Poison Spray
+魔法伎俩Prestidigitation
+冷冻射线Ray of Frost
+电爪Shocking Grasp
+克敌机先True Strike
+1环
+燃烧之手Burning Hands
+魅惑人类Charm Person
+繁彩球Chromatic Orb
+七彩喷射Color Spray
+通晓语言Comprehend Languages
+侦测魔法Detect Magic
+易容术Disguise Self
+脚底抹油Expeditious Retreat
+虚假生命False Life
+羽落术Feather Fall
+云雾术Fog Cloud
+跳跃术Jump
+法师护甲Mage Armor
+魔法飞弹Magic Missile
+致病射线Ray of Sickness
+护盾术Shield
+无声幻影Silent Image
+睡眠术Sleep
+雷鸣波Thunderwave
+巫术箭Witch Bolt
+2环
+变身术Alter Self
+目盲/耳聋术 Blindness/Deafness
+朦胧术Blur
+匕首之云Cloud of Daggers
+疯狂冠冕Crown of Madness
+黑暗术Darkness
+黑暗视觉Darkvision
+侦测思想Detect Thoughts
+强化属性Enhance Ability
+变巨/缩小术
+Enlarge/Reduce
+造风术Gust of Wind
+人类定身术Hold Person
+隐形术Invisibility
+敲击术Knock
+浮空术Levitate
+镜影术Mirror Image
+迷踪步Misty Step
+魅影之力Phantasmal Force
+灼热射线Scorching Ray
+识破隐形See Invisibility
+粉碎音波Shatter
+蛛行术Spider Climb
+暗示术Suggestion
+蛛网术Web
+3环
+闪现术Blink
+鹰眼术Clairvoyance
+法术反制Counterspell
+昼明术Daylight
+解除魔法Dispel Magic
+恐惧术Fear
+火球术Fireball
+飞行术Fly
+气化形体Gaseous Form
+加速术Haste
+催眠图纹Hypnotic Pattern
+闪电束Lightning Bolt
+高等幻影Major Image
+防护能量伤害Protection from Energy
+雪雨暴Sleet Storm
+缓慢术Slow
+臭云术Stinking Cloud
+巧言术Tongues
+水下呼吸Water Breathing
+水上行走Water Walk
+4环
+放逐术Banishment
+枯萎术Blight
+困惑术Confusion
+任意门Dimension Door
+支配野兽Dominate Beast
+高等隐形术Greater Invisibility
+冰风暴Ice Storm
+变形术Polymorph
+石肤术Stoneskin
+火墙术Wall of Fire
+5环
+活化物件Animate Objects
+死云术Cloudkill
+寒冰锥Cone of Cold
+造物术Creation
+支配人类Dominate Person
+怪物定身术Hold Monster
+疫病虫群Insect Plague
+伪装术Seeming
+心灵遥控Telekinesis
+传送法阵Teleportation Circle
+石墙术Wall of Stone
+6环
+秘法门Arcane Gate
+连锁闪电Chain Lightning
+死亡法阵Circle of Death
+解离术Disintegrate
+摄心目光Eyebite
+法术无效结界Globe of Invulnerability
+群体暗示术Mass Suggestion
+地动术Move Earth
+阳炎射线Sunbeam
+真知术True Seeing
+7环
+延迟爆裂火球Delayed Blast Fireball
+以太化Etherealness
+死亡一指Finger of Death
+火焰风暴Fire Storm
+异界传送Plane Shift
+虹光喷射Prismatic Spray
+反重力Reverse Gravity
+传送术Teleport
+8环
+支配怪物Dominate Monster
+地震术Earthquake
+焚云术Incendiary Cloud
+律令震慑Power Word Stun
+阳炎爆Sunburst
+9环
+异界之门Gate
+流星爆Meteor Swarm
+律令死亡Power Word Kill
+时间停止Time Stop
+祈愿术Wish

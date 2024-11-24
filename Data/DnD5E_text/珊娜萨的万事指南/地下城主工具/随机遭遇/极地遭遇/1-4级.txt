@@ -1,0 +1,48 @@
+1-4级
+d100
+遭遇
+01         1只巨猫头鹰giant owl
+02-05       1d6+3只狗头人kobold
+06-08       1d4+3的捕猎者（平民commoner）
+09-10       1只猫头鹰owl
+11-12       2d4只血鹰blood
+hawk
+13-17       2d6的强盗bandit
+18-20       1d3只带翼狗头人winged
+kobold和1d6只狗头人kobold
+21-25       一具被部分啃食的猛犸的尸体，可以从上面获取1d4星期分量的口粮
+26-29       2d8的猎人（部族武者tribal
+warrior）
+30-35       1只半食人魔half-ogre
+36-40       雪中的一排脚印，延伸一段后突兀地消失了
+41-45       1d3只冰魔蝠ice mephit
+46-50       1只棕熊brown bear
+51-53       1d6+1只兽人orc
+54-55       1只白熊polar bear
+56-57       1d6的斥候scout
+58-60       1只剑齿虎saber-toothed
+tiger
+61-65       一个表面结冰的池塘，冰上有一处看起来新近凿穿的不规则的洞
+66-68       1名狂战士berserker
+69-70       1只食人魔ogre
+71-72       1只狮鹫griffon
+73-75       1名德鲁伊druid
+76-80       3d4个正在逃离兽人的难民（平民commoner）
+81         1d3的老兵veteran
+82         1d4只魔兽人orog
+83         2只棕熊brown bear
+84         1个兽人·格乌什之眼orc Eye of Gruumsh和2d8只兽人orc
+85         1d3只冬狼winter
+wolf
+86-87       1d4只雪人yeti
+88         1只半食人魔half-ogre
+89         1d3只蝎尾狮manticore
+90         1个强盗首领bandit
+captain和2d6的强盗bandit
+91         1个还魂尸revenant
+92-93       1只巨魔troll
+94-95       1个熊人werebear
+96-98       1只幼年百足魔兽young remorhaz
+99         1只幼年白龙young
+white dragon
+00         1只霜巨人frost giant

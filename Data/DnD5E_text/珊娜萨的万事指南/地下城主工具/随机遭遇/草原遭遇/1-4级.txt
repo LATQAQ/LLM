@@ -1,0 +1,48 @@
+1-4级
+d100
+遭遇
+01         1只大地精长官hobgoblin captain和1d4+1只大地精hobgoblin
+02         1只奇美拉chimera
+03         1只石化牛gorgon
+04         1d2条羽蛇couatl
+05         1只甲龙ankylosaurus
+06         1个虎人weretiger
+07         1d3只异龙allosaurus
+08-09       1d3只象elephant
+11-14       一圈竖立的石柱，不管外界的风多么强烈，被石柱围住的区域都没有一丝微风
+15-16       1只相位蜘蛛phase spider
+17-18       1只豺狼人首领gnoll pack lord和1d4只巨鬣狗giant hyena
+19-20       1只魔兽人orog或1匹飞马pegasus
+21-22       1只掘地虫ankheg
+23-24       1d3只犀牛rhinoceros
+25-28       1d3只蛇鸡兽cockatrice
+29-32       1d6+2只巨黄蜂giant wasp或1d4+3的虫群swarm of insects
+33-36       1d4的化豺jackalwere或1d4的斥候scout
+37-40       1d8只巨山羊giant goat或1d8只座狼worg
+41-44       2d4只大地精hobgoblin，或2d4只兽人orc，或2d4只豺狼人gnoll
+45-46       1d2条巨毒蛇giant
+poisonous snake
+47-48       1d6+2只麋鹿elk或1d6+2匹乘用马riding horse
+49-50       2d4只地精goblin
+51-52       1d3只野猪boar
+53-54       1只花豹（黑豹panther）或1只狮子lion
+55-58       1d6+3只地精goblin，骑着狼wolf作为坐骑
+59-62       2d6只巨狼蛛giant wolf
+spider或1只巨鹰giant eagle
+63-65       1d8+4只翼龙pteranodon
+66-69       3d6只狼wolf
+70-74       2d4+2只斧嘴鸟axe beak
+75-76       1只巨野猪giant boar或1d2只老虎tiger
+77-78       1只食人魔ogre或1d3只熊地精bugbear
+79-80       1只巨麋鹿giant elk，或1只豺狼人首领gnoll pack lord和1d3只巨鬣狗giant hyena
+81-82       1d3只巨秃鹫giant vulture或1d3只鹫马hippogriff
+83-84       1只地精头目goblin boss、1d6+2只地精goblin和1d4+3只狼wolf，或1d3的斯里克林螳螂人thri-kreen
+85-89       1d3位德鲁伊druid在树林中巡逻
+90-91       1d6的稻草人scarecrow或1个野猪人wereboar
+92-93       1d3的人马centaur或1d3只狮鹫griffon
+94          1d3只豺狼人·耶诺古毒牙gnoll fang of Yeenoghu，或1只兽人·格乌什之眼orc Eye
+of Gruumsh和2d4+1只兽人orc
+95-96       1只三角龙triceratops
+97          1个独眼巨人cyclops或1只鲨蜥兽bulette
+98-99       1d4只蝎尾狮manticore
+00          1只雷克斯暴龙tyrannosaurus rex

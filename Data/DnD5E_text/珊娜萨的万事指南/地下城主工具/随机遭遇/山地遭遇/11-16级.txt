@@ -1,0 +1,34 @@
+11-16级
+d100
+遭遇
+01-02       1d8+1的石化蜥蜴basilisk
+03-04       2d4只地狱犬hell hound
+05-06       1d3只奇美拉chimera
+07-08       1个格莱石人galeb duhr
+09-10       2d6的老兵veteran
+11-15       1只幼年银龙young silver
+dragon
+16-20       2d4的巨魔troll
+21-25       一只红龙red dragon在最高的山峰上方飞翔
+26-30       1d8+1只蝎尾狮manticore
+31-35       1d4的独眼巨人cyclops
+36-40       持续1d6小时的大雪
+41-45       1d10的气元素air
+elemental
+46-50       1d6+2只鲨蜥兽bulette
+51-55       1d4的石巨人stone giant
+56-60       1个火巨人fire giant
+61-65       几百尺外2个用巨岩玩着抛接游戏的石巨人stone giant
+66-70       1d8+1的双头巨人ettin
+71-75       1d3的霜巨人frost giant
+76-80       冰川中的一处宽裂隙，雾气使人看不清它的深度
+81-85       1d4的云巨人cloud giant
+86-90       1只成年银龙adult silver
+dragon
+91-96       1只成年红龙adult red
+dragon
+97-98       1d4只鹏鸟roc
+99         1只远古银龙ancient
+silver dragon
+00         1只远古红龙ancient
+red dragon

@@ -1,0 +1,64 @@
+5-10级
+d100
+遭遇
+01         1d6的斥候scout
+02         2d4只化豺jackalwere
+03         2d6的大地精hobgoblin
+04         1d4+3的尘魔蝠dust
+mephit
+05         1d6的虫群swarm of
+insect
+06         1条巨蟒giant
+constrictor snake
+07-08       1只狮子lion
+09-10       2d4只豺狼人gnoll
+11-12       2d6只巨蟾蜍giant toad
+13-17       1个木乃伊mummy
+18-20       1d8+1只巨秃鹫giant
+vulture
+21-25       一座半埋在沙子里的石质方尖碑
+26-28       1只食人魔ogre和1d3只半食人魔half ogre
+29-35       1d10只巨鬣狗giant hyena
+36-40       1d6+1顶空帐篷
+41-43       1d6+2的斯里克林螳螂人thri-kreen
+44-46       2d4的纯血蛇人yuan-ti
+pureblood
+47-50       1d6+3只亡命恶犬death dog
+51-52       1d4只巨蝎giant scorpion
+53         1个火元素fire
+elemental
+54-55       1只大地精长官hobgoblin
+captain和3d4只大地精hobgoblin
+56         1d6+2只食人魔ogre
+57-58       1d4只拉米亚lamia
+59-60       1个气元素air elemental
+61-65       玻璃质的陨石坑，底部有一颗陨石
+66         1d4+1的尸妖wight
+67-68       1只幼年黄铜龙young brass
+dragon
+69-70       1个强盗首领bandit captain，1d3的狂战士berserker和3d6的强盗bandit
+71-72       1个独眼巨人cyclops
+73         1d4的羽蛇couatl
+74-75       1d4的恶咒蛇人yuan-ti
+malison
+76-80       一阵带起沙土的强风，在1d4小时内将能见度降至1d6尺
+81-83       1个还魂尸revenant和1d3的尸妖wight
+84-85       1d8+1只相位蜘蛛phase
+spider
+86-87       1d6+2的虎人weretiger
+88-90       2d4只豺狼人·耶诺古毒牙gnoll fangs of Yeenoghu
+91         1只幼年蓝龙young blue
+dragon
+92         1d4的独眼巨人cyclops
+93         1d3的憎恶蛇人yuan-ti
+abomination
+94         1d4的美杜莎medusa
+95         1只巡守纳迦guardian
+naga
+96         1d3只幼年黄铜龙young
+brass dragon
+97         1个火巨灵efreeti
+98         1只鹏鸟roc
+99         1只女面斯芬克斯gynosphinx
+00         1只成年黄铜龙adult
+brass dragon

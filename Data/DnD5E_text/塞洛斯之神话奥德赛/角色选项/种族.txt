@@ -1,0 +1,175 @@
+种族
+种族
+Races
+译者的话：本人能力有限，译文并非能完全体现英文原本的含义与韵味。一切种族名以D&D5e民间通用译名为准，括号内为该种族在万智牌的译名。除狮族与半羊人这两支新的种族，其余的种族翻译参考已有翻译但并非完全照搬，部分种族特质及其译名参考怪物图鉴1.3V和万智牌官方翻译，并按个人喜好加以调整。 如有任何意见请等待《Mythic
+Odysseys of Theros》翻译组的高质量翻译版。
+各种各样的民族居住在塞洛斯的土地上。除了人类，《玩家手册》中提到的其他种族在塞洛斯是未知的，除非他们来自其他世界
+本章提供了塞洛斯以下常见的可使用种族，以及除了人类之外所有种族的特质：
+人类：塞洛斯的人类与其他时间中的人类相似：适应性强，雄心勃勃，而且非常多样化。
+人马（半人马）：人马利用狡猾与马的力量来更近一步地实现苟那与斐力兹族群的目标
+狮族：狮族是宛如高傲雄狮般的猎人，他们中的许多成员都活在对神明的蔑视之中。
+牛头人（牛头怪）：牛头人因嗜血而臭名昭著，他们之中即使是最不诉诸战争的避战者也有这样的名声。
+半羊人（羊蹄人）：羊蹄人跟随自身的激情与追寻狂野的欢宴与全新的冒险。
+梭螺鱼人（屈东）：梭螺鱼人是一支神秘的，居住在海洋之中有着无尽探索欲望的种族。
+人类
+Human
+在塞洛斯众多的凡人种族中，人类体现出的凡人意志从荒野中开辟出了一块文明之地。尽管有其他较小的居住地存在，但大多数人类都与塞洛斯的三大城邦: 迈勒提斯, 阿喀洛斯或瑟特萨中的一个有着紧密的联系。
+姓氏在人类中并不常见，同名的人必须想办法把自己与他人区分开来。有些人把他们的出生地或居住地附在他们自己的名字上。例如，一个来自迈勒提斯的名为布莉戈涅的商人，将被称为迈勒提斯的布莉戈涅。另一些人则把他们的名字与自身职业联系起来，比如博学的黎司托和猎人阿拉斯塔。
+然而那些最具威望的名字是通过行动或性格换得的。这些名字通常是英雄们的典型标记，例如翼马的希帕提娅，末日之锤的卡洛格罗斯，或勇威依安忒。
+女性名字 Female Names: 阿伽忒Agathe, 阿拉斯塔Alesta, 阿丽萨Arissa, 布莉戈涅Brigone, 卡莱斐Callaphe, 寇丽珊德Corisande, 亥菈Hira, 希帕提娅Hypatia, 雅安多娜Iadorna, 依安忒Ianthe, 吕底娅Lidia, 吕菲娅Luphea, 尼摩西涅Nymosyne, 俄勒西娅Olexa, 波吕谢涅Polyxene, 普塞弥拉Psemilla, 拉克勒娅Rakleia, 索芙洛尼娅Sophronia, 媞菲Telphe, 提卡伊亚Tikaia, 瓦菈Vala
+男性名字 Male Names: 阿克墨诺斯Alkmenos, 巴萨瑠斯Basarios, 鲍里俄斯Braulios, 卓索斯Drasus, 尤克勒斯Eocles, Hixus, 卡利阿罗斯Kaliaros,
+卡洛格罗斯Kalogeros, 坎罗斯Kanlos,
+克利恩Kleon, 库忒昂Kytheon,
+拉纳索斯Lanathos, 林多斯Lindos,
+倪克洛斯Nyklos, 斐洛伽斯Phrogas,
+佛戎伽斯Prokopios, 瑞谢诺耳Rhexenor,
+黎司托Ristos, 忒拉罗斯Teraklos,
+乌瑞弥得斯Uremides, 威瑞涅斯Verenes,
+芝诺Zenon
+人马
+Centaurs
+人马特质Centaur Traits
+你的人马角色拥有以下种族特质
+属性值加成 Ability Score
+Increase. 你的力量加2，你的感知加1。
+年龄 Age. 人马的成熟与衰老速度和人类相同。
+阵营 Alignment.
+人马的阵营倾向于中立。拉苟那族人马更倾向于守序，而斐力兹族人马往往是混乱的。
+体型 Size. 人马直立为6到7尺，他们到达马肩部的马身为4尺左右。斐力兹族人马比拉苟那族人马稍大一些。你的体型属于中型。
+Here's how to determine your height and
+weight randomly, starting with rolling a size modifier:
+Size modifier = 1d10
+Height = 6 feet + your size modifier in
+inches
+Weight in pounds = 600 + (2d12 × your size
+modifier)
+速度 Speed. 你的基础步行速度为40 尺。
+精类 Fey. 你的角色类型是精类，而非类人。
+冲锋 Charge. 如果你向着目标直线移动了至少30尺，并在同一轮内以近战武器攻击命中了目标，你可以紧跟着此次攻击使用附赠动作，使用你的马蹄攻击此目标。
+蹄击 Hooves.
+你的马蹄视作天生近战武器，你可以用来做徒手打击。如果你以蹄击中目标，将造成1d4+力量调整值的钝击伤害，替代你通常的徒手打击伤害。
+马体构造 Equine Build. 在决定你的载重与推拉抬极限时，视你为大一级的体型。
+另外，因为你的马腿，任何需要手脚并用的攀爬对你而言尤其困难。当你进行这样的攀爬时，每移动1尺需要花费额外4尺移动力，而非额外1尺。
+生存专家 Survivor.
+你从以下技能中选择一种获得其熟练项：驯兽，医药，自然或生存。
+语言 Languages.
+你可以说、读、写通用语和木族语。
+狮族
+Leonin
+狮族特质Leonin Traits
+你的狮族角色拥有以下种族特质
+属性值加成 Ability Score Increase.
+你的体质加2，你的力量加1.
+年龄 Age. 狮族的成长与衰老速度与人类相同。
+阵营 Alignment.
+狮族的阵营倾向于善良。那些专注于自豪感的狮族倾向于守序善良。
+体型 Size. 狮族通常有6尺高，有些直立起来则超过7尺。你的体型属于中型体型。
+下面为如何决定你的身高和体重，从掷骰你的体型调整值开始。
+体型调整值Size modifier = 2d10
+身高Height = 5 feet + 6 inches + your size
+modifier in inches
+体重（磅）Weight in pounds = 180 + (2d6 × your
+size modifier)
+速度 Speed. 你的基础步行速度为35 尺。
+黑暗视觉 Darkvision. 在微光光照下，你身边60
+尺内可以视为等同于明亮光照。而在黑暗中，该范围内可视为等同于微光光照。你无法在黑暗中分辨颜色，只能看到有灰度的黑白画面。
+爪击 Claws.
+你的爪子是天生武器，你可以用来进行徒手打击。如果你用它来攻击，你可以造成等同于1d4+你力量调整值的挥砍伤害，而非普通的徒手打击。
+猎手本能 Hunter's Instincts.
+你获得下列技能中一项你选择技能的熟练项：运动、威吓、游说或求生。
+畏惧咆哮 Daunting Roar.
+你可以用一个附赠动作来发出一阵特别危险的咆哮。指定身边10
+尺内能听到你声音的生物必须进行一次感知豁免，否则他将因此陷入恐慌，并持续至你的下回合结束。该DC等于8+你的熟练加值+你的体质调整值。一旦你使用了此特性，直到你完成一次长休或短休才能再次使用。
+语言 Languages.
+你能够说、读、写通用语和狮族语。
+牛头人
+Minotaurs
+牛头人特质 Minotaur Traits
+你的牛头人角色拥有以下种族特质。这些特质这些特性也适用于其他没有遭受巴弗灭（Baphomet）的恶魔影响的D&D世界的牛头人种族。
+属性值加成 Ability Score Increase.
+你的力量加2，你的体质加1.
+年龄 Age. 牛头人的成长与衰老速度与人类相同。
+阵营 Alignment.
+离开斯科福司城墙的牛头人有机会摆脱它的文化，追求混乱的阵营，而那些留着城邦和其暴政政权内的族人则倾向于守序阵营。
+体型 Size. 牛头人的平均身高超过6尺，他们体格健壮。你的体型是中型。
+Here's how to determine your height and
+weight randomly, starting with rolling a size modifier:
+Size modifier = 2d8
+Height = 5 feet + 4 inches + your size
+modifier in inches
+Weight in pounds = 175 + (2d6 × your size
+modifier)
+速度 Speed. 你的基础步行速度为30 尺。
+角击 Horns.
+你的角是天生近战武器，你可以用它进行徒手打击。当你以角击中目标时，将造成1d6+力量调整值的穿刺伤害，而非普通的徒手打击的钝击伤害。
+猛抵冲撞  Goring Rush.
+当你在自己的回合中执行疾走动作，并至少移动了20尺后，你可以用附赠动作以你的牛角进行一次近战武器攻击。
+角锤 Hammering Horns.
+在你的回合中，当你用近战武器攻击去攻击一个生物时，你可以用附赠动作以牛角尝试推撞他。目标生物必须在你的5尺范围内，且体型不能比你大超过一级。目标将从你身边推离10尺，除非该生物在进行对抗你DC为8+你的熟练加值+你的力量调整值的力量豁免中成功。
+庄严存形 Imposing Presence.
+你从下列技能中选择一项并获得其熟练项：威吓或游说
+语言 Languages.
+你能够说、读、写通用语和牛头人语。
+半羊人
+Satyr
+半羊人特质Satyr Traits
+你的半羊人角色拥有以下种族特质
+属性值加成 Ability Score
+Increase. 你的魅力加2，你的敏捷加1。
+年龄 Age. 半羊人的成长与衰老速度与人类相同。
+阵营 Alignment.
+半羊人喜欢过没有律法约束的生活。它们倾向于善良，不过它们之中的有些人有不诚实的特征，并且享受制造惊愕。
+体型 Size. 半羊人的身高在5尺到6尺之间，体型通常很苗条。你的体型是中型。
+Here's how to determine your height and
+weight randomly, starting with rolling a size modifier:
+Size modifier = 2d8
+Height = 4 feet + 8 inches + your size
+modifier in inches
+Weight in pounds = 100 + (2d4 × your size
+modifier)
+速度 Speed. 你的基础步行速度为35 尺。
+精类 Fey. 你的角色类型是精类，而非类人。
+顶撞 Ram.
+你可以使用你的头和角来进行徒手打击。如果你使用它们，你造成等同于1d4+你力量调整值的钝击伤害。
+魔法抗性 Magic Resistance.
+你在对抗法术或其他魔法效应时进行的豁免检定具有优势。
+欢喜之跃 Mirthful Leaps.
+无论何时你进行一次跳远或跳高时，你可以掷一枚d8，并将掷骰结果的数字加到你所跳跃的尺数——即使是进行一次立定跳远。这段额外的距离像通常的情况一样花费移动力。
+贪欢者 Reveler.
+你拥有表演和游说技能的熟练项，并且你拥有一项你所选择的一件乐器的熟练项。
+语言 Languages.
+你能够说、读、写通用语和木族语。
+梭螺鱼人（屈东）
+Tritons
+梭螺鱼人（屈东）特质 Triton Traits
+你的梭螺鱼人角色拥有以下种族特质
+属性值加成 Ability Score Increase.
+你的力量、体质和魅力各加1。
+年龄 Age. 梭螺鱼人约15岁成年，一般能活到200岁。
+阵营 Alignment.
+梭螺鱼人的阵营倾向于中立。他们的文化鼓励他们留意生活的潮流，知晓何时驾驭命运的怒潮，何时随波逐流。
+体型 Size. 梭螺鱼人略矮于人类，通常有5尺高。你的体型是中型。
+Here's how to determine your height and
+weight randomly, starting with rolling a size modifier:
+Size modifier = 2d10
+Height = 4 feet + 6 inches + your size
+modifier in inches
+Weight in pounds = 90 + (2d4 × your size
+modifier)
+速度 Speed. 你的基础步行速度是30 尺，你拥有30 尺的游泳速度。
+水陆两栖 Amphibious.
+你可以在空气或水中呼吸。
+操风控水 Control Air and
+Water. 你可以用这个特质施展云雾术fog
+cloud。从3 级开始，你能用它施展造风术gust of
+wind，从5 级开始，你也能用它施展水墙术wall of
+water 。一旦你用这个特质施展了一个法术，你必须完成一次长休才能再次以该特质施展这些法术。你释放这些法术的施法关键属性是魅力。
+黑暗视觉 Darkvision.
+在微光光照下，你身边60
+尺内可以视为等同于明亮光照。而在黑暗中，该范围内可视为等同于微光光照。你无法在黑暗中分辨颜色，只能看到有灰度的黑白画面。
+海之密使 Emissary of the Sea.
+水生野兽与你的种族有着非凡的亲和力。你可以与能在水中呼吸的野兽简单沟通交流。它们能够理解你的话的意思，虽然你没有特殊的能力来明白它们的回应。
+深渊守护者 Guardians of the Depths.
+你适应了寒冷的海洋深渊，对寒冷伤害具有抗性。
+语言 Languages.
+你能够说、读、写通用语与原初语。

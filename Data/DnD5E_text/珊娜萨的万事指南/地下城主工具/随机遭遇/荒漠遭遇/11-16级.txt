@@ -1,0 +1,54 @@
+11-16级
+d100
+遭遇
+01         1只幼年黄铜龙young
+brass dragon
+02-05       4d6只豺狼人gnoll
+06-10       3d10只巨鬣狗giant hyena
+11-12       1d8+1只拉米亚lamia
+13-14       2d4只豺狼人·耶诺古毒牙gnoll fangs of Yeenoghu
+15-17       1d6+2只巨蝎giant
+scorpion
+18-20       2d4只相位蜘蛛phase spider
+21-25       一支穿越沙漠的旅行队，包括1d6名商人（贵族noble）和2d6的警卫guard
+26-27       1d6+1条羽蛇couatl
+28-30       1d4的火元素fire
+elemental
+31-32       1只大地精长官hobgoblin
+captain和3d10+10只大地精hobgoblin
+33-35       2d4的尸妖wight
+36-40       面积1d6平方里的沙漠玻璃
+41-42       1只幼年蓝龙young blue
+dragon
+43-45       1d6+2的虎人weretiger
+46-48       1d4的气元素air elemental
+49-50       1d6+1的恶咒蛇人yuan-ti
+malison
+51-55       1d4的美杜莎medusa
+56-60       1d4的还魂尸revenant和3d12的骷髅skeleton
+61-65       一座被劫掠过的金字塔
+66-70       1d4只幼年黄铜龙young brass
+dragon
+71-75       1d3的憎恶蛇人yuan-ti
+abomination
+76-78       1d6+2的独眼巨人cyclops
+79-82       1只成年黄铜龙adult brass
+dragon
+83-85       1只紫虫purple worm
+86         1d2只幼年蓝龙young
+blue dragon
+87-88       1个木乃伊领主mummy lord
+89         1d3只巡守纳迦guardian
+naga
+90         1只成年蓝龙adult blue
+dragon
+91         1d2只女面斯芬克斯gynosphinx
+92-93       1d3的火巨灵efreeti
+94         1只男面斯芬克斯androsphinx
+95         1d4只鹏鸟roc
+96-97       1只成年蓝龙巫妖adult blue
+dracolich
+98-99       1只远古黄铜龙ancient brass
+dragon
+00         1只远古蓝龙ancient
+blue dragon

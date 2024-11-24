@@ -1,0 +1,68 @@
+荒洲探险家指南
+制作组
+有些译名有可能没有更正，荒洲=怀德蒙特=荒洲
+首席作者：Matthew
+Mercer作者：James
+J. Haeck, James lntrocaso, Chris Lockey开发者：Jeremy
+Crawford, Dan Dillon, Ben Petrisor, Kate Welch主编：Christopher
+Perkins编辑：Scott
+Fitzgerald Gray, Hannah Rose, F. Wesley Schneider艺术指导：Kate
+Irwin平面设计师： Trish
+Yochum, Trystan Falcone封面插画师：Karl
+Kerschl内页插画师：Even
+Amundsen, Jonah Baumann, Mark Behm, Eric Belisle, Dan Bittencourt, Zoltan Boros,
+Wesley Burt, Clint Cearley, Jedd Chevrier, Chippy, David Rene Christensen,
+CoupleOfKooks, Joma Cueto, Alayna Danner, Kent Davis, Nikki Dawes, Axel Defois,
+Olga Drebas, Lars Grant-West, Julian Kok, Linda Lithen, Jessica Mahon, Andrew
+Mar, Marcela Medeiros, Robson Michel, Gani Montes, Irina Nordsol, Stephen
+Oakley, Robin Olausson, Claudio Pozas, Livia Prima, Jenn Ravenna, Nick Robles,
+Caio E Santos, David Sladek, Brian Valeza, Anna Veltkamp, Richard Whitters,
+Shawn Wood, Zuzanna Wuzyk, Anna Zee地图绘图师：Deven
+Rue制作方: Bill
+Benham, Lea Heleotis, Dan Tovar产品策划:
+Cynda Callaway图形技师: Sven
+Bolen, Carmen Cheung, Kevin Yee艺术主管:
+David Gershman印前完稿设计:
+Jefferson Dunlap特许经营&全球品牌战略：Nathan
+Stewart授权&出版总监：Liz
+Schuh授权经理：Hilary
+Ross市场营销和交流： Bart
+Carroll, Pelham Greene, Chris Lindsay, Shauna Narciso, Emi Tanji, Greg T ito,
+Anna VoD&.D IP 开发:Adam
+Lee, Ari Levitch, Mike Mearls, Richard Whitters, Shawn Wood品牌经理：Shelly
+Mazzanoble游戏测试协调员：Bill
+Benham关键角色团队： Laura
+Bailey, Taliesin Jaffe, Ashley Johnson, Liam O'Brien, Marisha Ray, Sam Riegel,
+Rachel Romero, Ben Van Der Flu it, Travis Willingham特别感谢：Ashly
+Burch, Mica Burton, Matt Colville, Tanya DePass, Brian Foster, Will Friedle,
+Todd Kenreck, Matthew Key, Sumalee Montano, Brennan Lee Mulligan, Khary Payton,
+Brittany Walloch, Deborah Ann Woll感谢很多很多的测试者们，他们帮助我们将角色选择和冒险变成了最终形式。
+没有你们，我们不可能完成这本书！
+封面故事：
+插画家卡尔·克施尔 Karl
+KerschI描绘了两名君主的肃正容貌以及他们之间的卢克森灵魂信标 Luxon
+beacon。克灵王朝 Kryn
+Dynasty的光辉女王莱拉斯·克灵
+Leylas Kryn和敦达里安帝国
+Dwendalian Empire的国王伯特兰·德温达林
+Bertrand Dwendal从未见过面，但他们的冲突将影响战火不绝的荒洲大陆上所有生命的命运和未来。免责声明：荒洲大陆和其中的所有民族都是虚构的，其主要是为了通过史诗般的战斗和胜利来使您和您的朋友得以进入一个充斥着探索，想象和深刻感情的世界。我们建议您既要拥抱成功也能承受失败，既要拥抱愉悦也能承受悲伤，并且在照顾在您的冒险中获得的宠物或动物时要保持警惕之心。海岸巫师会和关键角色对由于动物伙伴或驯养的小动物遭受到持续性危险和致命挑战而产生的精神创伤不承担任何责任，同样我们也对被动感知低下所可能导致无法注意到动物们的突然逃脱的任何事件也不承担任何责任。
+欢迎来到荒洲
+Welcome to Wildemount
+两支军队在一片雾蒙蒙的战场上交战，一侧传来号角和战鼓声，而另一侧传来阵阵诡异尖锐的呼啸声，就像成千上万的蟋蟀在不断哀鸣一般。一只乌鸦，黝黑的羽毛上沾染着点点鲜血，落在一具倒下的尸体上，轻轻地用尖喙啄着士兵的头盔。乌鸦突然抬起头，满是好奇，然后飞向天空。战火纷飞的大地在其翅膀下方延伸着，然而，在这战争的笼罩之中，这只乌鸦看到了闪烁的光芒。乌鸦看到了那些闪烁着勇气，慈爱和意志力的光辉的灵魂。它也看到了那些充满这贪婪，恐惧和愤怒的灵魂。最重要的是，它看到灵魂在发光，发出着寻求自己在这世界上的位置的渴望。这只乌鸦看到了这个荒洲大陆。一个新的D&D设定 A
+New D&D Setting
+荒洲
+Wildemount是龙与地下城的新战役设定，最初由Matthew
+Mercer创造，是热门系列《角色暴演》的第二个战役的设定。尽管这只是Exandria世界中的一个大陆，但荒洲充满了各种文化，地区，种族和怪物。它既是邪恶化身的巢穴，又是善良典范的家园，但它是由介于这两种理想之间的普通人所定义的。本书适用于所有等级的D＆D玩家和地下城主。它也同样适用于新手和关键角色的忠实拥护者。如果您迄今为止已经看过每一集的关键角色，这本书仍然会给您带来惊喜，因为荒洲的某些角落甚至连强大的Nein都无法在他们的冒险中进行探索。如果您是地下城主，那么这本书将帮助您在一片充满着战争，阴谋诡计和刺激冒险的土地上进行一场D＆D战役。您可以将您的战役完全设置在荒洲的四个区域之一内，也可以按照“关键角色”的示例进行设置，并以冒险者们穿越大陆时不断变化的状况来创建战役。您还将看到全新的怪物和导入式冒险，以帮助您在荒洲的四个地区中的任何一个地区展开战役。如果您是玩家，这本书将提供新的选项，可以帮助您的角色与这个陌生的新世界完美契合。您可以使用英雄编年史系统来创建背景故事，以使您的角色牢固地扎根于荒洲的土地上。您还将发现新的子职以及新的魔法物品，这些将帮助您在探索大陆时获得越来越强大的力量。
+想象力是一个奇异而又美妙的东西imagination
+is a strange &wonderful thing  想象力能够推动创新并激发共同创造。对于我这名令人讨厌的沉迷戏剧的孩子来说，想象力是我的慰藉之物。
+自从我奶奶在我七岁开始给我读《魔戒》和皮尔斯·安东尼的作品入睡以来，我发现自己此时开始迷失在想象力中，并受到了想象力的启发。从小时候和我哥哥在佛罗里达州多雨的院子里玩过家家，到横扫RPG之后的RPG电子游戏，我发现自己陷入了故事之中，尤其是那些我可以和朋友们一起塑造的故事。直到我在高中二年级的时候遇上了龙与地下城
+DUNGEONS＆DRAGONS之时，我发现了一种能够把我所喜欢的讲故事，团队协作，戏剧和创造力这些东西交织在一起的经历。我开始为我的朋友们创造游戏世界，并用奇怪的想法，古怪的NPC和平庸的故事线索填满笔记本（嘿，每个人都必须从某个地方开始）。我找到了自己最喜欢的消遣方式，而这种消遣方式也不断提升着我的能力，并塑造了今日的我。
+多年以来，经过一系列不可思议的情况，我和我的一群游戏朋友开始以“关键角色 Critical
+Role”为名在互联网上展示我们的D＆D家庭游戏，在此之间我们曾在将近十年时间里在网络媒体上被告知任何超过5分钟长度的东西对于“ADHD一代”都是没有价值的，也因此几乎没有期待什么利益。但这些鬼话很快被证明是错误的，我们的家庭游戏很快膨胀成为一个社区，然后变成了一种无法预料的现象，这种现象对我来说是如此奇妙而重要，并且看来在世界上还有许多其他这样奇妙的现象。
+通过冒险派对Vox Machina的开拓而产生的最初战役，在这其中我担任着地下城主，我开始制作Tal'Dorei大陆和Exandria世界供我的朋友探索。我的朋友们所进行的每一次的英勇冒险都扩展了这个世界，其人物故事的每个独特方面都丰富了这个原本完全存在于我脑海中的境界，Exandria开始成长和成熟，时而感觉到它正在呈现着它自己的生命。旅程结束时，Vox Machina的英雄们完成了雄伟的故事，我们都知道我们创造了一些特别的东西。但是，那只是我们想要编织的许多故事中的第一个。
+此后不久，第二次战役又开始了，这次冒险是在邻近的荒洲大陆进行的，这片土地被黑暗的历史，政治的博弈和危险的秘密所束缚，而这些秘密正潜藏在日常生活的地下。知道了我的玩家所愿意参与的复杂程度之后，我以前所未有的规模和水平开发了荒洲
+Wildemount。我兴奋地看着Exandria的这个区域开始成形，而也正是在这里Mighty Nein（后来被人们如此称为）开始了他们的冒险之旅，他们的旅程一直延续到我撰写此序言的这一天。 荒山扩展成了一个广阔，复杂而又令人愉快的设定，我对此感到越来越自豪。然后出现了与海岸巫师会合作的难得的机会，以印刷形式将这一设定带给您。这次机会让我能够成为一个对我如此重要的事物的一部分，对此我无比谦虚且欣喜若狂。将我们的世界加入到D＆D多元宇宙之中并邀请您参与其中并创造你们的故事，这是一种相当的荣幸。 Exandria仍然是我最骄傲的成果之一，而荒洲是我迄今为止在这个世界设定上最成功的一个方面。这个大陆充满了冒险和神秘。与那些才华横溢的人们一起工作，使这本战役资料书成为现实，这是我从未奢想过的快乐。 荒洲 Wildemount是从关键角色 Critical
+Role开始的，但是这本书邀请您和您的朋友将这个世界变成诸位自己的世界。  我邀请大家来到荒洲 Wildemount。在韦南迪尔西部 Western
+Wynandir的危险山谷中漫步，在兽群海岸Menagerie
+Coast启程航行，勇敢面对科瑞汗斯 Xhorhas那大地伤痕累累的荒原，探索这些饱受战火的地域以外地区的古老秘密。跟随着Mighty Nein的脚印探索，或者踏上自己的路途。现在，这是您的荒山。Matthew
+Mercer,Dungeon Master of Critical Role

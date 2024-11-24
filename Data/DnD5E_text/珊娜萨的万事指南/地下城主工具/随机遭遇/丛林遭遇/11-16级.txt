@@ -1,0 +1,45 @@
+11-16级
+d100
+遭遇
+01-03       1个熊人werebear
+04-05       1d4位德鲁伊druid正为死者举行仪式（仅限白天）或1d4的女妖banshee（仅限夜晚）
+06-07       1d3条羽蛇couatl
+08-10       1d3只豺狼人·耶诺古毒牙gnoll fang of Yeenoghu和2d6+3只豺狼人gnoll
+11-15       2d4只移位兽displacer
+beast
+16-20       1d6+2的老兵veteran
+21-25       一个清澈平静的池塘。池底散落着金币，但金币在离开池塘时就会消失。
+26-30       1d4+1的绿鬼婆green hag和1d3只枭熊owlbear
+31-35       1d6+2的狼人werewolf
+36-40       一个小型的林地神社，为一个叫做西斯瓦Siswa的神秘宗教所建
+41-45       1d6+2只相位蜘蛛phase
+spider
+46-50       2d4的恶咒蛇人yuan-ti
+malison
+51-52       1d3的熊人werebear
+53-54       1d4的还魂尸revenant
+55-56       1只幼年绿龙young green
+dragon
+57-58       1d4只巨魔troll
+59-60       1d6+2的野猪人wereboar
+61-65       七个人（平民commoner）戴着动物面具穿行于树林间
+66-67       1d4只石化牛gorgon
+68-69       1d3只蔓生怪shambling
+mound
+70-71       1个树人treant
+72-73       1d4只独角兽unicorn
+74-75       1d6+2的虎人weretiger
+76-80       从远处传来的响亮而清脆的笑声
+81-82       1个巡守纳迦guardian naga
+83-84       1只幼年金龙young gold
+dragon
+85-86       1只阿尔法穴居攫怪grick alpha和2d4只穴居攫怪grick
+87-88       1d3的憎恶蛇人yuan-ti
+abomination
+89-90       1只成年绿龙adult green
+dragon
+91-93       1d8+1只巨猿giant ape
+94-96       2d4只恶鬼oni
+97-99       1d3的树人treant
+00         1只远古绿龙ancient
+green dragon

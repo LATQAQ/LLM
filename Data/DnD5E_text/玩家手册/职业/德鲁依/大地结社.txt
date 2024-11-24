@@ -1,0 +1,126 @@
+大地结社
+德鲁伊结社Druid Circle
+德鲁伊组织的存在大多不为外人所知，然而他们确实分散在大陆各处，并且无视国界束缚的活动着。德鲁伊的社区会将任何德鲁伊视为其名义成员，尽管其中会有一些孤僻的个体从不与其他高阶成员接触，或是从不出席任何集会。德鲁伊们相互间情同手足，却也会如野性生物一样互相竞争，甚至互相残杀。
+某些德鲁伊还会因对自然、平衡以及行事方式等方面有着相同的观点而结成一些地域性组织。
+大地结社Circle of the Land
+创立大地结社的秘术师和智者们守护着远古的知识与各种传统仪式。结社的德鲁伊们聚集在神树之环下或石阵之中，他们用德鲁伊语低声交流，传递着原初的秘密。结社中最睿智的成员地位尊贵，他们如教团的首席祭司一样维护着上古誓约，并为其领导下的众人传道解惑。作为结社的一员，大地结社的仪式与你建立起神秘的连接，使你的魔力受到大地的影响。
+附赠戏法Bonus Cantrip
+在第2级选择该结社时，你学会一个额外的德鲁伊戏法。
+自然恢复Natural Recovery
+第2级起，你可以通过静坐冥想与自然建立交流，并以此恢复部分魔法能量。完成一次短休后，你可以选择恢复部分已使用的法术位。所恢复法术位环阶的总和等于你德鲁伊职业等级的一半（向上取整），且不能是6环或更高环阶。你在完成一次长休后才能再次使用该特性。
+例如，作为一名4级德鲁伊时，你可恢复环阶总数为二的法术位。你可以选择恢复一枚2环法术位或者两枚1环法术位。
+结社法术Circle Spells
+你跟大地之间的神秘链接让你可以施展特别的法术。在第3、第5、第7、第9级时，你根据成为德鲁伊时的所在地获得相应的结社法术。选择一个地形：极地、海岸、荒漠、森林、草原、山地、沼泽，并依此获得相应的法术。
+结社法术一旦获得，将会一直在你的已准备法术列表中，且不计入你的每日准备法术上限。任何结社法术对你而言都是德鲁伊法术，而不论其是否在德鲁伊法术列表之上。
+极地Arctic
+德鲁伊等级
+结社法术
+3rd
+人类定身术hold person，荆棘丛生spike growth
+5th
+雪雨暴sleet
+storm，缓慢术slow
+7th
+行动自如freedom of movement，冰风暴ice storm
+9th
+问道自然commune
+with nature，寒冰锥cone of cold
+海岸Coast
+德鲁伊等级
+结社法术
+3rd
+镜影术mirror image，迷踪步misty step
+5th
+水下呼吸water
+breathing，水面行走water walk
+7th
+操控水体control water，行动自如freedom of movement
+9th
+召唤元素生物conjure
+elemental，探知scrying
+荒漠Desert
+德鲁伊等级
+结社法术
+3rd
+朦胧术blur，沉默术silence
+5th
+造粮术create food and water，
+防护能量伤害protection
+from energy
+7th
+枯萎术blight，幻景hallucinatory terrain
+9th
+疫病虫群insect
+plague，石墙术wall of stone
+森林Forest
+德鲁伊等级
+结社法术
+3rd
+树肤术barkskin，蛛行术spider climb
+5th
+召雷术call lightning，植物滋长plant growth
+7th
+预言术divination，行动自如freedom of movement
+9th
+问道自然commune
+with nature，树跃术tree
+stride
+草原Grassland
+德鲁伊等级
+结社法术
+3rd
+隐形术invisibility，行动无踪pass without trace
+5th
+昼明术daylight，加速术haste
+7th
+预言术divination，行动自如freedom of movement
+9th
+托梦术dream，疫病虫群insect
+plague
+山地Mountain
+德鲁伊等级
+结社法术
+3rd
+蛛行术spider climb，荆棘丛生spike growth
+5th
+闪电束lightning
+bolt，融身入石meld into stone
+7th
+塑石术stone shape，石肤术stoneskin
+9th
+穿墙术passwall，石墙术wall
+of stone
+沼泽Swamp
+德鲁伊等级
+结社法术
+3rd
+黑暗术darkness，马友夫强酸箭acid arrow
+5th
+水上行走water
+walk，臭云术stinking cloud
+7th
+行动自如freedom of movement，
+生物定位术locate creature
+9th
+疫病虫群insect
+plague，探知scrying
+幽暗地域Underdark
+德鲁伊等级
+结社法术
+3rd
+蛛行术spider climb，蛛网术web
+5th
+气化形体gaseous
+form，臭云术stinking cloud
+7th
+高等隐形术greater invisibility，塑石术stone shape
+9th
+死云术cloudkill，疫病虫群insect plague
+大地行者Land’s Stride
+第6级起，你穿过非魔法的困难地形时不会消耗额外移动力。你穿过非魔法的植物时不会消耗额外的移动力，且这类植物的荆棘、毛刺或类似的危害物也无法对你造成伤害。
+另外，在抵抗魔法制造或控制的植物造成的移动障碍效应时（例如纠缠术entangle），你进行豁免检定时具有优势。
+自然之护Nature’s Ward
+第10级起，你免疫元素生物或精类生物造成的魅惑或恐慌状态，并且免疫中毒和疾病。
+自然庇护所Nature’s Sanctuary
+第14级起，自然界的生物感知到你跟自然的链接而不会主动攻击你。当一个野兽或植物类的生物攻击你时，该生物必须先进行一次对抗你德鲁伊法术DC的感知豁免。豁免失败时，该生物必须选择另一个目标，否则其攻击将判为未命中。豁免成功时，该生物在随后的24小时内免疫此效应。
+该生物会在攻击你之前就意识到你有此效应。

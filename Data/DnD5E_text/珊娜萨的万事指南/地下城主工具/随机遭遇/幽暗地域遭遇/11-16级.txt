@@ -1,0 +1,77 @@
+11-16级
+d100
+遭遇
+01-02           3d6只食腐虫carrion crawler
+03-04           1d6+1只胶质方块gelatinous cube
+05-06           1d8+2只惧噬体gibbering mouther
+07-08           2d8只骷髅牛头人minotaur skeleton
+09-10           2d6只赭冻怪ochre jelly
+11-12           2d4只变形怪doppelganger
+13-14           1d4的泽地熊人·索诺祭司quaggoth thonot和1d10+2的泽地熊人quaggoth
+15-16           1d3只树绳妖roper
+17-18            3d6只石像鬼gargoyle
+19-20           1d10只拟身怪mimic
+21-25            一个长100尺，宽4d10尺，深5d20+200尺的岩缝
+26-27           1只大地精长官hobgoblin captain和3d10只大地精hobgoblin
+28-29           2d4只观察者眼魔spectator
+30-31           3d6的妖鬼ghast
+32-33           2d8只噬脑怪intellect devourer
+34-35
+1d3只兽人·格乌什之眼orc Eye of Gruumsh，2d4只魔兽人orog和2d10只兽人orc
+36-40            一个宽广的洞穴，里面有2d10尊极精细的生物雕像
+41-42
+1d8+1的寇涛监督kuo-toa monitor
+43-44
+2d4只水诡water weird
+45-46           2d10只穴居攫怪grick
+47-48           3d6只诺斯异怪nothic
+49-50           2d8+1只食人魔ogre
+51-52           1d6+1只甲伏怪chuul
+53-54           1d8+1的双头巨人ettin
+55            3d6只触须怪grell
+56            2d4的燃焰之颅flameskull
+57            2d12名巡逻的矮人士兵（老兵veteran）
+58            2d8只地狱犬hell
+hound
+59            1d10的幽魂ghost
+60            3d4的尸妖wight
+61            3d6只相位蜘蛛phase
+spider
+62            1d8+1的骸骨纳迦bone naga
+63-65           一声尖叫，随后是阴暗的笑声
+66            1d4只奇美拉chimera
+67            1d10只黑布丁black
+pudding
+68            3d6的牛头人minotaur
+69            2d4只食腐兽otyugh
+70            1d6+1只眼魔僵尸beholder zombie
+71            4d4只恐爪怪hook horror
+72            1d8+1的土巨怪umber hulk
+73            2d4只火蜥蜴salamander
+74            1d3只阿尔法穴居攫怪alpha grick
+75            1d6+2只索尔石怪xorn
+76-80           一座曾属于地底侏儒的被毁坏的村庄。搜寻遗迹有50%的几率找到1d3瓶治疗药水，并有25%的几率找到一件随机的普通魔法物品。
+81            2d4的土元素earth
+elemental
+82            1d3的精魂纳迦spirit naga
+83            1d8+1的独眼巨人cyclops
+84            1d6+2的巨魔troll
+85            2d4的石巨人stone
+giant
+86            2d4的缚灵wraith
+87            1d4的废陋巨人fomorian
+88            1d3名卓尔魔法师drow mage和1d4名卓尔精英武者drow elite warrior
+89            1d10的吸血鬼衍体vampire spawn
+90            1d3只蛰伏伪怪cloaker
+91            1d4的火巨人fire
+giant
+92            1个夺心魔奥术师mind flayer arcanist和1d6+1的夺心魔mind flayer
+93            1d4的土巨灵dao
+94            1d8+1的蛛化精灵drider
+95            1d3只青足龙蛇behir
+96            1d4只底栖魔鱼aboleth
+97            1只眼魔beholder
+98            1只幼年幽影红龙young
+red shadow dragon
+99            1只亡眼暴君death tyrant
+00            1只紫虫purple worm

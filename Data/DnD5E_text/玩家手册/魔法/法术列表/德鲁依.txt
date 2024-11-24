@@ -1,0 +1,122 @@
+德鲁伊
+德鲁伊法术Druid Spells
+0环 戏法
+德鲁伊伎俩Druidcraft
+神导术Guidance
+修复术Mending
+毒气喷溅Poison Spray
+燃火术Produce Flame
+提升抗性Resistance
+橡棍术Shillelagh
+荆棘之鞭Thorn Whip
+1环
+化兽为友Animal Friendship
+魅惑人类Charm Person
+造水/枯水术Create or Destroy Water
+疗伤术Cure Wounds
+侦测魔法Detect Magic
+侦测毒性和疾病Detect Poison and Disease
+纠缠术Entangle
+妖火Faerie Fire
+云雾术Fog Cloud
+神莓术Goodberry
+治愈真言Healing Word
+跳跃术Jump
+大步奔行Longstrider
+净化食粮Purify Food and Drink
+动物交谈术Speak With Animals
+雷鸣波Thunderwave
+2环
+动物信使Animal Messenger
+树肤术Barkskin
+野兽知觉Beast Sense
+黑暗视觉Darkvision
+强化属性Enhance Ability
+寻找陷阱Find Traps
+火焰刀Flame Blade
+炽焰法球Flaming Sphere
+造风术Gust of Wind
+灼热金属Heat Metal
+人类定身术Hold Person
+次级复原术Lesser Restoration
+动植物定位术Locate Animals or Plants
+物件定位术Locate Object
+月华之光Moonbeam
+行动无踪Pass without Trace
+防护毒素Protection from Poison
+荆棘丛生Spike Growth
+3环
+召雷术Call Lightning
+召唤动物Conjure Animals
+昼明术Daylight
+解除魔法Dispel Magic
+假死术Feign Death
+融身入石Meld into Stone
+植物滋长Plant Growth
+防护能量伤害Protection from Energy
+雪雨暴Sleet Storm
+植物交谈术Speak With Plants
+水下呼吸Water Breathing
+水上行走Water Walk
+风墙术Wind Wall
+4环
+枯萎术Blight
+困惑术Confusion
+召唤次级元素生物Conjure Minor Elementals
+召唤林地之精Conjure Woodland Beings
+操控水体Control Water
+支配野兽Dominate Beast
+行动自如Freedom of Movement
+巨虫术Giant Insect
+擒抱藤Grasping Vine
+幻景Hallucinatory Terrain
+冰风暴Ice Storm
+生物定位术Locate Creature
+变形术Polymorph
+塑石术Stone Shape
+石肤术Stoneskin
+火墙术Wall of Fire
+5环
+防活物护罩Antilife Shell
+启蒙术Awaken
+问道自然Commune with Nature
+召唤元素生物Conjure Elemental
+疫病术Contagion
+指使术Geas
+高等复原术Greater Restoration
+疫病虫群Insect Plague
+群体疗伤术Mass Cure Wounds
+异界誓缚Planar Binding
+转生术Reincarnate
+探知Scrying
+树跃术Tree Stride
+石墙术Wall of Stone
+6环
+召唤精类生物Conjure Fey
+寻路术Find the Path
+医疗术Heal
+英雄宴Heroes' Feast
+地动术Move Earth
+阳炎射线Sunbeam
+木遁术Transport via Plants
+棘墙术Wall of Throns
+御风而行Wind Walk
+7环
+火焰风暴Fire Storm
+海市蜃楼Mirage Arcane
+异界传送Plane Shift
+再生术Regenerate
+反重力Reverse Gravity
+8环
+动物形态Animal Shapes
+嫌恶/关怀术 Antipathy/Sympathy
+操控天气Control Weather
+地震术Earthquake
+弱智术Feeblemind
+阳炎爆Sunburst
+海啸术Tsunami
+9环
+预警术Foresight
+形体变化Shapechange
+复仇风暴Storm of Vengeance
+完全复生术True Resurrection

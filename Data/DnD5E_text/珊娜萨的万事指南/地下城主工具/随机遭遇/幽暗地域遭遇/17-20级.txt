@@ -1,0 +1,52 @@
+17-20级
+d100
+遭遇
+01         1d4只阿尔法穴居攫怪grick alpha
+02         2d8只观察者眼魔spectator
+03-04       3d6的牛头人minotaur或2d8的寇涛监督kuo-toa monitor
+05-06       2d8只触须怪grell
+07-08       2d10只相位蜘蛛phase
+spider
+09-10       4d4只地狱犬hell hound
+11-12       1d6+2只树绳妖roper
+13-14       2d10的尸妖wight
+15-16       3d6只变形怪doppleganger
+17-18       1d8+1只奇美拉chimera
+19-20       1d4只蛰伏伪怪cloaker
+21         1d4只大地精长官hobgoblin
+captain和5d10只大地精hobgoblin
+22-23       1d8+1的土元素earth
+elemental
+24-25       2d4的吸血鬼衍体vampire spawn
+26-27       3d6的牛头人minotaur
+28-30       洞穴中一座30尺高的黑色倒立金字塔，漂浮在距地面一寸的位置
+31-32       1d10只眼魔僵尸beholder
+zombie
+33-34       1d4的夺心魔奥术师mind flayer arcanist
+35-36       1d6+2只食腐兽otyugh
+37-38       1d12的巨魔troll
+39-40       1d10的缚灵wraith
+41-43       一个漂亮的黑曜石雕像，雕刻着一只躺卧在地上的黑豹
+44-45       1d4名卓尔魔法师drow mage和1d6名卓尔精英武者drow elite warrior
+46-47       1d4的精魂纳迦spirit naga
+48-49       1d8+1只火蜥蜴salamander
+50-51       2d4的土巨怪umber hulk
+52-53       1d10只索尔石怪xorn
+54-56       1只幼年幽影红龙young red
+shadow dragon
+57-59       2d4的废陋巨人fomorian
+60-62       1d8+1的蛛化精灵drider
+63-65       1d20+20只蜘蛛在挂满蛛网的洞穴中爬行
+66-68       1d4的火巨人fire giant
+69-70       1d10的夺心魔mind flayer
+71-73       2d4的石巨人stone giant
+74-76       1d12的独眼巨人cyclops
+77-80       一个巨大的洞穴，其中矗立着一尊50尺高的布里博杜普Blibdoolpoolp的神像
+81-85       1d3的土巨灵dao
+86-90       1d4只眼魔beholder
+91-93       1d4只青足龙蛇behir
+94-96       1只亡眼暴君death
+tyrant
+97-99       1d3只紫虫purple
+worm
+00         2d4只底栖魔鱼aboleth

@@ -1,0 +1,103 @@
+5-10级
+d100
+遭遇
+01            3d6的蝙蝠群swarm
+of bats
+02            1d4只巨蜘蛛giant
+spider或1d4只巨蟾蜍giant toad
+03            1只拟身怪mimic
+04            2d4只灰泥怪gray
+ooze
+05            2d10只兽人orc或3d6只战蜥人troglodyte
+06            3d6的石盲蛮族grimlock
+07            1d6+2只熔岩魔蝠magma mephit
+08            1只地精头目goblin
+boss和2d4只地精goblin
+09            2d4只暗幕魔兽darkmantle
+10            2d8+1的卓尔drow
+11            2d10只穿刺者piercer
+12            1d4只骷髅牛头人minotaur skeleton
+13-14           3d6的地底侏儒deep gnome
+15            1位德鲁伊druid和1只穴熊（白熊polar bear）
+16-17           3d6只兽人orc
+18            1个骸骨纳迦bone
+naga
+19-20           2d6只熊地精bugbear
+21-25           岩壁上生长着发光的真菌，将整块区域笼罩在微光光照下
+26            2d4的幽灵specter
+27            1d12+4只幽影shadow
+28            1d3只惧噬体gibbering
+mouther
+29-30           4d4只大地精hobgoblin
+31-32           1d4只食腐虫carrion crawler
+33-34           1只黑布丁black pudding
+35            1d4只赭冻怪ochre
+jelly
+36-40           一块霉斑，处于光线直射下时看起来是黄色的
+41            1d4只诺斯异怪nothic
+42-43           2d8+1的毒气孢子gas spore
+44-45
+1d3只胶质方块gelatinous cube
+46            1个幽魂ghost
+47-48           1个燃焰之颅flameskull
+49-50           2d8的灰矮人duergar
+51            1个缚灵wraith
+52            1只土巨怪umber
+hulk
+53            1只索尔石怪xorn
+54            1d6+2位搜寻着巨魔的矮人猎人（老兵veteran）
+55            1只大地精长官hobgoblin
+captain和3d10只大地精hobgoblin
+56            1只树绳妖roper
+57            1个寇涛监督kuo-toa monitor，1d4的寇涛鞭策者kuo-toa whip和1d8+1的寇涛鱼人kuo-toa
+58            1d3只水诡water
+weird
+59            1d4的妖鬼ghast和1d10的食尸鬼ghoul
+60            1只食腐兽otyugh
+61-62           一支商队，包括1名卓尔魔法师drow mage，2名卓尔精英武者drow elite warrior，和2d10的泽地熊人quaggoth
+63            1d4的尸妖wight
+64            1d4只变形怪doppleganger
+65            2d8条火蛇fire
+snake
+66            1d4只观察者眼魔spectator
+67            1只兽人·格乌什之眼orc Eye of Gruumsh，1d4只魔兽人orog和2d10+3只兽人orc
+68            1d3的吸血鬼衍体vampire spawn
+69            1d4只恐爪怪hook
+horror或1d4的牛头人minotaur
+70            3d6的泽地熊人孢子奴仆quaggoth spore
+servant
+71-72           1d3只触须怪grell
+73            1d6+1只噬脑怪intellect devourer
+74            1d10只石像鬼gargoyle
+75            1只眼魔僵尸beholder
+zombie
+76-77           1个泽地熊人·索诺祭司quaggoth thonot和2d4的泽地熊人quaggoth
+78            1d6的双头巨人ettin或1d4只巨魔troll
+79            1d8+1只相位蜘蛛phase spider
+80            1个废陋巨人fomorian或1d3的独眼巨人cyclops
+81            1d4的土元素earth
+elemental
+82            3d6的食人魔ogre
+83            1d4+1只甲伏怪chuul
+84            1d10只地狱犬hell
+hound
+85            1d3名卓尔精英武者drow elite warrior
+86            1d4只奇美拉chimera
+87            1d4只火蜥蜴salamander
+88            1只蛰伏伪怪cloaker
+89            2d4的尸妖wight
+90            1d4的蛛化精灵drider
+91            1个火巨人fire
+giant
+92            1只阿尔法穴居攫怪grick alpha和2d4只穴居攫怪grick
+93            1个夺心魔奥术师mind
+flayer arcanist
+94            1d4名卓尔魔法师drow mage
+95            1个精魂纳迦spirit
+naga
+96            1d4的夺心魔mind
+flayer
+97            1只青足龙蛇behir
+98            1只底栖魔鱼aboleth
+99            1个土巨灵dao或1个石巨人stone giant
+00            1只眼魔beholder

@@ -1,0 +1,78 @@
+1-4级
+d100
+遭遇
+01         3d8只蝎子scorpion
+02         2d4只秃鹫vulture
+03         1匹被遗弃的骡子mule
+04         2d6的平民commoner和2d4匹骆驼camel，正在去往一座遥远城市的路上
+05         1d6条飞蛇flying
+snake
+06         2d6只鬣狗hyena或2d6只豺狗jackal
+07         1d6的警卫guard护送着一个贵族noble前往荒漠边缘
+08         1d6只猫cat
+09         1只伪龙pseudodragon
+10         1d4条毒蛇poisonous
+snake
+11-13       2d4只蚊蝠stirge
+14-15       1d6+2只巨狼蛛giant wolf
+spider
+16-17       1个斥候scout
+18-20       2d4条巨毒蛇giant
+poisonous snake
+21-25       延伸向沙漠深处的一排脚印
+26-27       4d4的狗头人kobold
+28-29       1只化豺jackalwere
+30-31       3d6的部族武者tribal
+warrior
+32-33       1d6只巨蜥giant lizard
+34-35       1个虫群swarm of insect
+36-40       一块周围环绕着一圈棕榈树的绿洲，里面有一处营地的痕迹
+41-44       3d6的强盗bandit
+45-46       1d4条蟒蛇constrictor
+snake
+47-48       2d4只带翼狗头人winged
+kobold
+49-50       1只尘魔蝠dust mephit
+51-52       1d3+1只巨蟾蜍giant toad
+53-54       1d4只巨蜘蛛giant spider
+55         1位德鲁伊druid
+56-57       2d4的大地精hobgoblin
+58         1个尸妖wight
+59-60       1只食人魔ogre
+61-65       一盏倒在地上的黄铜油灯
+66-67       1d4的巨秃鹫giant vulture
+68         1只相位蜘蛛phase
+spider
+69         1条巨蟒giant
+constrictor snake
+70-71       1只豺狼人头领gnoll pack
+lord和1d3只巨鬣狗giant hyena
+72         1d6+2只豺狼人gnoll
+73-74       1只木乃伊mummy
+75         1d3只半食人魔half-ogre
+76-80       一堆用破烂的布包裹的类人生物的骨头
+81-82       1只拉米亚lamia
+83         1只大地精长官hobgoblin
+captain和2d6只大地精hobgoblin
+84         2d4只亡命恶犬death
+dog
+85-86       1d4只巨蝎giant scorpion
+87         1个恶咒蛇人yuan-ti
+malison和1d4+1的纯血蛇人yuan-ti
+pureblood
+88-89       1个强盗首领bandit captain，1位德鲁伊druid和3d6的强盗bandit
+90         2d4的斯里克林螳螂人thri-kreen
+91         1个气元素air
+elemental
+92         1d3的羽蛇couatl
+93         1个火元素fire
+elemental
+94         1d4只豺狼人·耶诺古毒牙gnoll fangs of Yeenoghu
+95         1个还魂尸revenant
+96         1d4的虎人weretiger
+97         1个独眼巨人cyclops
+98         1只幼年黄铜龙young
+brass dragon
+99         1个美杜莎medusa
+00         1个憎恶蛇人yuan-ti
+abomination

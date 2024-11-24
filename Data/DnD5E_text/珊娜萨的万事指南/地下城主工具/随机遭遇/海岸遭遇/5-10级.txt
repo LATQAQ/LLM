@@ -1,0 +1,44 @@
+5-10级
+d100
+遭遇
+01         2d8只巨狼蛛giant
+wolf spider
+02-03       3d6只翼龙pteranodon
+04-05       2d4的斥候scout
+06-07       1d6+2的沙华鱼人sahuagin
+08         1个海鬼婆sea hag
+09-10       1d4+1只巨蟾蜍giant toad
+11-15       3d6的沙华鱼人sahuagin
+16-20       2d6只巨鹰giant eagle
+21-25       一只伪龙pseudodragon在空中追逐着海鸥
+26-29       1d2位德鲁伊druid
+30-32       2d4+1只巨蟾蜍giant toad
+33-35       1个正在唱着挽歌的平民commoner（仅限白天）或1个女妖banshee（仅限夜晚）
+36-40       一个半埋在沙子里，堵着瓶塞的瓶子，里面装着一张已经无法阅读的纸条
+41-43       3个海鬼婆sea hag
+44-46       1d8+1的鸟妖harpy
+47-50       1d4只蛇颈龙plesiosaurus
+51-53       1d4只蝎尾狮manticore
+54-56       2d4只食人魔ogre
+57-60       1d10只狮鹫griffon
+61-65       海上两艘大帆船间的战斗
+66-70       1d4+3的迈罗人鱼merrow
+71-75       一队海盗，包括1个强盗首领bandit captain，1位德鲁伊druid，2个狂战士berserker，以及2d12的强盗bandit，正在搜寻埋藏的宝藏
+76-80       一只缠在网里的类人生物的手
+81-82       1个水元素water elemental
+83-84       1个独眼巨人cyclops
+85-86       1d4的女妖banshee（仅限夜晚）
+87-88       2d4的老兵veteran
+89-90       1只幼年青铜龙young bronze
+dragon
+91-93       1d3的独眼巨人cyclops
+94-95       1只幼年蓝龙young blue
+dragon
+96         1个沙华鱼人男爵sahuagin
+baron，1d3的沙华鱼人女祭司sahuagin
+priestess和2d8的沙华鱼人sahuagin
+97         1个气巨灵djinni
+98         1只鹏鸟roc
+99         1个水巨灵marid
+00         1个风暴巨人storm
+giant

@@ -1,0 +1,53 @@
+游侠
+游侠法术Ranger Spells
+1环
+警报术Alarm
+化兽为友Animal Friendship
+疗伤术Cure Wounds
+侦测魔法Detect Magic
+侦测毒性和疾病Detect Poison and Disease
+诱捕打击Ensnaring Strike
+云雾术Fog Cloud
+神莓术Goodberry
+棘雹术Hail of Thorns
+猎人印记Hunter’s Mark
+跳跃术Jump
+大步奔行Longstrider
+动物交谈术Speak With Animals
+2环
+动物信使Animal Messenger
+树肤术Barkskin
+野兽知觉Beast Sense
+警戒之箭Cordon of Arrows
+黑暗视觉Darkvision
+寻找陷阱Find Traps
+次级复原术Lesser Restoration
+动植物定位术Locate Animals or Plants
+物件定位术Locate Object
+行动无踪Pass without Trace
+防护毒素Protection from Poison
+沉默术Silence
+荆棘丛生Spike Growth
+3环
+召唤动物Conjure Animals
+召唤箭雨Conjure Barrage
+昼明术Daylight
+闪电箭Lightning Arrow
+回避侦测Nondetection
+植物滋长Plant Growth
+防护能量伤害Protection from Energy
+植物交谈术Speak With Plants
+水下呼吸Water Breathing
+水上行走Water Walk
+风墙术Wind Wall
+4环
+召唤林地之精Conjure Woodland Beings
+行动自如Freedom of Movement
+擒抱藤Grasping Vine
+生物定位术Locate Creature
+石肤术Stoneskin
+5环
+问道自然Commune with Nature
+万箭齐发Conjure Volley
+迅捷箭袋Swift Quiver
+树跃术Tree Stride

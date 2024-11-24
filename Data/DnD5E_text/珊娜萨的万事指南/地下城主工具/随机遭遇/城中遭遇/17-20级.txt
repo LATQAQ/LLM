@@ -1,0 +1,36 @@
+17-20级
+d100
+遭遇
+01-05       1d10的隐形追猎者invisible
+stalker
+06-10       1d10的还魂尸revenant
+11-14       1d6+2的角斗士gladiator
+15-18       2d4的魔裔cambion
+19-22       2d6的魅魔succubus或2d6的睡魔incubus
+23-25       一个骑着飞天扫帚broom of
+flying从上空飞过的女巫（魔法师mage）
+26-30       1d4只史拉灰蟾gray slaad
+31-35       2d8条羽蛇couatl
+36-40       一位心急如焚的父亲或母亲，冲到人们面前求他们救救掉进下水道的孩子
+41-45       1d3只幼年银龙young silver
+dragon
+46-50       3d6的幽魂ghost
+51-55       1只成年银龙adult silver
+dragon
+56-60       1d4位魔法师mage和1d4的构装盾卫shield guardian
+61-65       一个气势汹汹的商人向路人叫卖着，声称自己是全世界最棒的丝绸的供应商
+66-70       1只远古银龙ancient silver
+dragon
+71-75       3d6的吸血鬼衍体vampire
+spawn
+76-80       一支由2d10个警卫guard组成的巡逻队，沿街寻找着什么
+81-85       1d10的刺客assassin
+86-90       1d4+1只史拉灰蟾gray slaad
+91-93       1d10的恶鬼oni
+94-96       1个吸血鬼施法者spellcaster
+vampire或1个吸血鬼武者warrior
+vampire
+97         1d4位大法师archmage
+98         1d3的罗刹rakshasa
+99         1d4的吸血鬼vampire
+00         1只泰拉斯奎巨兽tarrasque

@@ -1,0 +1,37 @@
+11-16级
+d100
+遭遇
+01         1d4的女妖banshee（仅限夜晚）
+02-04       1个独眼巨人cyclops
+05-08       1d6+2只蝎尾狮manticore
+09-10       1d8+2的老兵veteran
+11-20       1只幼年蓝龙young blue
+dragon
+21-25       一窝1d6个的龙龟蛋
+26-35       1d4的沙华鱼人男爵sahuagin
+baron
+36-40       一把半埋在沙子里的三叉戟
+41-50       1只幼年青铜龙young bronze
+dragon
+51-55       1个水巨灵marid
+56-60       1d6的水元素water
+elemental
+61-65       2d6的妖鬼ghast爬在1d6艘失事的船上啃食着尸体
+66-70       1个气巨灵djinni
+71-75       1d3只幼年青铜龙young
+bronze dragon
+76-80       一具肿胀的搁浅鲸鱼的尸体。它会在受到了任何形式的伤害时爆炸，在尸体附近30尺范围内的生物必须成功通过一个DC15的敏捷豁免，否则将受到5d6点钝击伤害，豁免成功则伤害减半。
+81-82       2d4的独眼巨人cyclops
+83-84       1个风暴巨人storm giant
+85-86       1d3只幼年蓝龙young blue
+dragon
+87-88       1只成年青铜龙adult bronze
+dragon
+89-90       1只成年蓝龙adult blue
+dragon
+91-93       1d3的鹏鸟roc
+94-97       1只龙龟dragon turtle
+98-99       1只远古青铜龙ancient
+bronze dragon
+00         1只远古蓝龙ancient
+blue dragon

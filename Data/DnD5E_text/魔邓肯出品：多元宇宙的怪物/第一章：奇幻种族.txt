@@ -1,0 +1,34 @@
+种族
+Help >
+魔邓肯出品：多元宇宙的怪物 >
+种族
+第一章：奇幻种族 Fantastical Races
+译者的话：本贴为MotM第一章部分初译内容，此版本仅为译者一家之言。本人能力有限，译文并非能完全体现英文原本的含义与韵味。一切译名以1.7.1版的D&D 5e三宝书和民间通用译名为准，部分译名参考自以前各扩展中玩家种族的译文。因为本书内容为对之前出版的诸多玩家种族的修改和整合，所以本译文对与三宝书不统一的翻译用词进行整合，并按个人喜好加以调整。若未能完全沿用旧译文，对诸位译者们致以歉意。同时感谢每一位曾参与过龙与地下城5e翻译工作的民间译者，谢谢你们！
+阿兰寇拉鹰人Aarakocra 到 狗头人Kobold 描述的译者为 Farevell。
+化兽者Shifter 数据的译者为Amethyst Dragonlord。
+蜥蜴人Lizardfolk 到
+原体蛇人Yun-ti 的描述，与斑猫人Tabaxi到原体蛇人Yun-ti数据的译者为柴郡猫眼。
+以上译文经过本人些许修改以保持统一，感谢帮助翻译的每一位译者！
+本章汇集了来自龙与地下城的多元宇宙之中的奇幻种族，并为玩家角色们提供了以下种族，作为玩家手册中可选择种族的补充。
+阿兰寇拉鹰人Aarakocra, 阿斯莫Aasimar, 熊地精Bugbear, 人马Centaur, 幻身灵Changeling, 地底侏儒Deep Gnome, 灰矮人Duergar, 雅灵Eladrin, 仙灵Fairy,
+费尔伯格人Firbolg, 气元素裔Genasi: Air, 土元素裔Genasi: Earth, 火元素裔Genasi: Fire, 水元素裔Genasi: Water, 吉斯洋基人Githyanki, 吉斯泽莱人Githzerai, 地精Goblin, 歌利亚Goliath,
+兔人Harengon, 大地精Hobgoblin, 天狗Kenku, 狗头人Kobold, 蜥蜴人Lizardfolk, 牛头人Minotaur, 兽人Orc, 半羊人Satyr, 海精灵Sea
+Elf,
+影灵Shadar-kai, 化兽者Shifter, 斑猫人Tabaxi, 龟人Tortle, 梭螺鱼人Triton, 原体蛇人Yun-ti.
+这里的许多种族都是基于《怪物图鉴》和这本书籍中的怪物作为基础的。和你的DM咨询，确认这里的选择是否适合你的战役。
+如果你使用了一个本章的种族，首先请阅读“创建你的角色”部分。
+创建你的角色 Creating Your Character
+在1级时，决定你的角色是人类还是其他奇幻种族中的一员。如果你选择幻想种族，如本节的仙灵或兔人，在角色创建时参照以下的额外规则。如果你选择了本章中的一个幻象种族，在创造角色时遵循以下的规则。
+属性值加成Ability Score Increase
+当决定你属性值加成时，将一项属性加       2，然后将另一项不同的属性加1.或者选择三项不同的属性各自加1。无论你如何决定角色的属性，骰点还是购点都必须遵循这一规则。“快速建卡”一节会指导你的角色选择增加何种属性。你可以采用这些指导也可以将其无视。无论你增加哪项属性，这些加成无法让属性超过20。
+语言Languages
+你的角色能够说、读和写通用语和另一种你和       DM认为适合角色的语言。《玩家手册》提供了一项可供选择的泛用语言列表。DM战役为了战役而自由地修改该列表。
+?生物种类Creature Type
+所有       D&D中的生物，包括所有玩家角色，都在规则上有一个特别的关键词，用来鉴别其所属的生物种类。绝大部分玩家角色都属于类人生物。这里列出的种族选项说明了你的角色的生物种类是什么。
+以下是游戏内的生物种类按字母表顺序排列的列表：异怪 Aberration、野兽 Beast、天界生物 Celestial、构装生物 Construct、龙类 Dragon、元素生物 Elemental、精类 Fey、邪魔 Fiend、巨人 Giant、类人生物 Humanoid、怪兽 Monstrosity、泥怪 Ooze、植物 Plant、不死 Undead。这些生物种类本身并不拥有规则，但一些游戏规则会以不同的方式影响到特定种类的生物。例如，疗伤术法术对不死和构装生物无效。
+寿命Life Span
+在龙与地下城多元宇宙中，一个玩家角色的寿命通常约为一个世纪，前提是该角色没有在冒险中遭遇不测。例如矮人们和精灵这些种族的成员，通常可以活上几个世纪。如果本书中某个种族的成员普遍能活超过一个世纪，则会在该种族的描述中提到。
+身高与体重 Height and Weight
+不论种族，典型玩家角色的身高和体重范围与我们现实世界里人类的相同。如果你想随机地决定你的角色的身高和体重，参照《玩家手册》的随机身高体重       Random Height and Weight表，并选择最能代表你所想象的角色的一列进行投掷。
+Copyright © 2019. All rights
+reserved. (To change the copyright info, just edit it in template.)
