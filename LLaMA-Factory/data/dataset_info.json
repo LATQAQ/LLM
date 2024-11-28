@@ -626,11 +626,6 @@
     "folder": "python"
   },
   "my_dataset": {
-    "file_name": "my_dataset.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output",
-      "system": "system"
-    }
+    "file_name": "alpaca_dataset.json"
   }
 }

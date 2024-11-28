@@ -1,3 +1,4 @@
+import pandas as pd
 import json
 import os
 import time
@@ -6,9 +7,8 @@ from typing import List, Dict
 from openai import OpenAI
 import logging
 import backoff
-import pyarrow as pa
-import pyarrow.parquet as pq
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 # 设置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -126,12 +126,60 @@ def save_dataset(dataset: List[Dict], output_file: str):
     logger.info(f"数据集已保存到 {output_file}")
 
 
-if __name__ == "__main__":
-    input_folder = "./Data/chunks"  # 指定输入文件夹路径
-    output_file = "instruction_dataset.json"
 
-    logger.info("开始生成数据集")
-    dataset = generate_dataset(input_folder, entries_per_file=2)
-    save_dataset(dataset, output_file)
-    logger.info(f"数据集已生成并保存到 {output_file}")
-    logger.info(f"共生成 {len(dataset)} 个有效条目")
+
+def json_to_parquet(json_file, parquet_file):
+    """
+    将 JSON 文件转换为 Parquet 格式，嵌套字段直接作为字符串存储。
+
+    :param json_file: 输入的 JSON 文件路径
+    :param parquet_file: 输出的 Parquet 文件路径
+    """
+    try:
+        # 读取 JSON 文件
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        # 确保 JSON 内容是列表
+        if not isinstance(data, list):
+            raise ValueError("JSON 文件内容需要是一个数组（列表）")
+
+        # 将嵌套字段转换为字符串
+        for item in data:
+            for key, value in item.items():
+                if isinstance(value, (dict, list)):
+                    item[key] = json.dumps(value, ensure_ascii=False)
+
+        print(data)
+
+        # 转换为 DataFrame
+        df = pd.DataFrame(data)
+
+        # 写入 Parquet 文件
+        df.to_parquet(parquet_file, engine='pyarrow', index=False)
+
+        print(f"转换成功：{parquet_file}")
+
+    except Exception as e:
+        print(f"转换失败：{e}")
+
+
+if __name__ == "__main__":
+    # input_folder = "./Data/chunks"  # 指定输入文件夹路径
+    # output_file = "instruction_dataset.json"
+
+    # logger.info("开始生成数据集")
+    # dataset = generate_dataset(input_folder, entries_per_file=2)
+    # save_dataset(dataset, output_file)
+    # logger.info(f"数据集已生成并保存到 {output_file}")
+    # logger.info(f"共生成 {len(dataset)} 个有效条目")
+
+    # 转换为 Parquet 格式
+
+    input_file = "instruction_dataset.json"
+    output_file = "instruction_dataset.parquet"
+
+    with open(input_file, 'r', encoding='utf-8') as file:
+        dataset = json.load(file)
+        json_to_parquet(input_file, output_file)
+

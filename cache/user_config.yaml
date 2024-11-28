@@ -1,0 +1,5 @@
+cache_dir: null
+lang: zh
+last_model: Custom
+path_dict:
+  Custom: D:\LLM\Qwen
